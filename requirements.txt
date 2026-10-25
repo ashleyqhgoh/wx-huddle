@@ -1,0 +1,2 @@
+streamlit==1.59.0
+mini-racer==0.14.1
