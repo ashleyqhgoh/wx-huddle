@@ -33,6 +33,14 @@ Private session and recovery keys are stored as hashes on the server. Each brows
 
 ## Validation
 
-The source game passed 24 engine and invitation checks and five Python service integration checks, including 14 concurrent joins, access control, recovery, and SQLite persistence. The Python service was tested using the same bundled engine in Node because the optional Python V8 wheel was unavailable in the build environment. End-to-end Streamlit browser testing remains to be completed after deployment.
+The source game passed 28 engine and invitation checks and five Python service integration checks, including 14 concurrent joins, access control, recovery, and SQLite persistence. The Python service was tested using the same bundled engine in Node because the optional Python V8 wheel was unavailable in the build environment. End-to-end Streamlit browser testing remains to be completed after deployment.
 
 Each room deals different questions, twists, clues and reflections to up to 16 players. The decks are shuffled again after restarting. The participant entry rejects room-creation requests; the separate host entry is selected with `?host=1`. This is role-based entry without account authentication; anyone given the host link can host their own room.
+
+## Automatic hosting and sound
+
+After the host taps Start, the app shuffles the roster, deals unique cards, randomises each round’s turns, runs the answer timers, and moves between rounds automatically. The host has a normal player seat. Pause, reset, and manual step controls remain available when needed.
+
+A ghost animation reveals the selected player. Soft synthesized music accompanies the draw; short tones mark the final answer countdown. Audio starts through the host’s Start/Shuffle tap or the speaker button, as browsers require a user gesture. Other players can enable or mute sound using the speaker button. Reduced-motion settings are respected.
+
+During question turns, the selected questioner can use their card or enter a different question. The selected player can answer aloud or type on their own device.
