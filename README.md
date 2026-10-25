@@ -33,9 +33,9 @@ Private session and recovery keys are stored as hashes on the server. Each brows
 
 ## Validation
 
-The source game passed 34 engine, invitation, participant-entry and component-sizing checks and five Python service integration checks, including 14 concurrent joins, access control, recovery, and SQLite persistence. The Python service was tested using the same bundled engine in Node because the optional Python V8 wheel was unavailable in the build environment. End-to-end Streamlit browser testing remains to be completed after deployment.
+The source game passed 44 engine, invitation, participant-entry, participation and component-sizing checks and seven Python service integration checks, including 14 concurrent joins, access control, recovery, and SQLite persistence. The Python service was tested using the same bundled engine in Node because the optional Python V8 wheel was unavailable in the build environment. End-to-end Streamlit browser testing remains to be completed after deployment.
 
-Each room deals different questions, twists, clues and reflections to up to 16 players. The decks are shuffled again after restarting. The participant entry rejects room-creation requests; the separate host entry is selected with `?host=1`. This is role-based entry without account authentication; anyone given the host link can host their own room.
+Each room deals different questions, twists, clues and reflections to up to 16 players. The decks are shuffled again after restarting. The participant entry rejects room creation and every administrative game action. Host entry is selected with `?host=1`; controlling an existing room also requires that room’s actual owner session key. A host URL alone does not grant a participant control of that room. Host and participant browser sessions are stored separately, so a scanned participant link does not reopen a cached host seat. Existing saved seats are migrated by role. There are no player accounts or passwords.
 
 ## Automatic hosting and sound
 
@@ -50,3 +50,13 @@ During question turns, the selected questioner can use their card or enter a dif
 A scanned room QR opens Join with the room code already entered. Participant entry and waiting rooms do not display invitation QR codes. Host invitations remain available through Invite players; on phones the lobby invitation panel starts collapsed.
 
 The phone entry form appears first, with ten character choices and a See all 30 characters control. The layout uses one column, readable inputs, wrapping controls, and safe-area spacing. Streamlit iframe sizing follows the current content so it can grow or shrink after character expansion or joining. Dialogs use the visible browser viewport.
+
+## Participant interaction and word cloud
+
+The welcome has an answer field, separate typed and spoken-answer buttons, a named response board and a live word cloud. Each participant taps Ready after contributing. The app moves on when everyone is ready, or when the five-minute welcome timer ends. Completing the welcome early can shorten the overall game.
+
+During challenge turns, selected players have explicit Share typed answer and I answered aloud controls. Other participants can post a question or thought without taking over the speaker’s turn. Spoken answers are given in the shared room or existing video call; the game records the participant’s confirmation and optional typed summary. It does not record, transcribe or carry voice audio.
+
+Publicly shared answers, questions and comments feed the word cloud. A word’s size reflects how many responses mention it; the response cards show each author’s name and avatar. Spoken confirmations without a typed summary do not create invented words. Private cards, unshared takeaways and voting choices are excluded. The board is visible on player, host and shared screens. Clearing records also clears the cloud, responses and readiness.
+
+Only the actual host using host entry can start, pause, resume, skip, restart, end, reorder players or correct credits. These restrictions are enforced server-side as well as in the interface, and are tested with forged role fields and participant routes carrying cached owner credentials.
