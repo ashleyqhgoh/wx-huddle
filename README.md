@@ -60,3 +60,9 @@ During challenge turns, selected players have explicit Share typed answer and I 
 Publicly shared answers, questions and comments feed the word cloud. A word’s size reflects how many responses mention it; the response cards show each author’s name and avatar. Spoken confirmations without a typed summary do not create invented words. Private cards, unshared takeaways and voting choices are excluded. The board is visible on player, host and shared screens. Clearing records also clears the cloud, responses and readiness.
 
 Only the actual host using host entry can start, pause, resume, skip, restart, end, reorder players or correct credits. These restrictions are enforced server-side as well as in the interface, and are tested with forged role fields and participant routes carrying cached owner credentials.
+
+## Clearer question cards
+
+Round one has sixteen distinct questions about everyday choices, useful skills, recommendations and small experiences. Each has a relevant new condition and a different colleague’s follow-up. The instruction screen shows a complete example instead of referring to an unexplained brief.
+
+Round three has sixteen distinct situations. Its bad-suggestion and useful-change steps display their own instruction, one at a time. The welcome asks which small daily annoyance participants would remove. The mystery text consistently refers to treat boxes and playlist names.
