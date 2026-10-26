@@ -4,17 +4,17 @@ A hybrid huddle for approximately 14 colleagues, supporting 2–16 players. Part
 
 ## The game
 
-The programme lasts about 60 minutes. The welcome can finish earlier when everyone is ready. The app chooses players, runs answer timers and moves between rounds automatically.
+The programme lasts about 60 minutes. Every player receives a different welcome question. The welcome can finish earlier when everyone is ready. The app chooses players, runs answer timers and moves between rounds automatically.
 
-1. **Share your perspective:** sixteen different cards about strengths, habits, interests and working preferences. Share an example, consider a related situation, and answer a colleague’s follow-up.
-2. **What would you do?:** two familiar situations about an urgent request and raising a concern. Choose a first response, ask a colleague your unique question, then share your response and what you would actually say. Named results show different choices and changes of view. Choices are not graded.
+1. **Share your perspective:** sixteen different, playful cards about everyday quirks, habits, interests and working preferences. Each belongs to one player.
+2. **What would you do?:** two sets of sixteen quirky, individual questions. Each player receives one unique question to answer and a different question to ask an assigned colleague. A randomised one-to-one rotation ensures everyone asks once and receives one question. Each reply is automatically recorded as that player’s answer. The reveal shows their question and complete answer.
 3. **Bad idea, better idea:** sixteen different situations about communication, teamwork and useful working habits. Give a deliberately bad suggestion, replace it with a useful change, and answer a colleague’s question.
 
-The welcome, response board and word cloud show participant names and avatars. Public typed responses and optional summaries of spoken answers feed the cloud. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
+The welcome, response board and word cloud show participant names and avatars. Each player’s latest written response appears in the cloud as one complete text with their name. Wording, punctuation and emoji stay together; answers are not split into keywords. Identical answers from different players remain separate. Earlier complete responses remain in the response history. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
 
-During the discussion, a participant can finish a typed reply while later question turns run, until the final response window closes. First choices and final response text stay private until the reveal. Private cards, unshared takeaways and recognition votes remain private.
+During the discussion, a participant can finish a typed reply while later question turns run, until the final response window closes. Private preparation notes stay private. Replies to a colleague are shared when submitted; a final answer saved separately is shared at the reveal. Private cards, unshared takeaways and recognition votes remain private.
 
-[Read the complete reviewed question bank](QUESTION_BANK.md). It includes the purpose of every question and improvement card, all 32 unique discussion questions, and the closing questions. The previous missing-treats and playlist puzzles are removed.
+[Read the complete reviewed question bank](QUESTION_BANK.md). It includes the purpose of every question and improvement card, all sixteen unique welcome questions, 32 individual round-two questions, and the closing questions. The previous missing-treats and playlist puzzles are removed.
 
 ## Deploy on Streamlit Community Cloud
 
@@ -56,6 +56,6 @@ Private session and recovery keys are hashed on the server. A successful recover
 
 ## Validation
 
-The source passed 48 JavaScript checks and eight Python service integration checks. Coverage includes full-game credit totals, unique cards for sixteen players, role restrictions, private choices and public reveals, typed and spoken responses, replies across question turns, reset, concurrent joins, recovery and SQLite persistence.
+The source passed 50 JavaScript checks and nine Python service integration checks. Coverage includes full-game credit totals, unique cards for sixteen players, role restrictions, unique question ownership and named answer reveals, typed and spoken responses, replies across question turns, reset, concurrent joins, recovery and SQLite persistence.
 
 The Python service uses the same bundled engine in Node during these checks because the optional Python V8 wheel is unavailable in the build environment. End-to-end testing in a live Streamlit browser remains to be completed after publication.

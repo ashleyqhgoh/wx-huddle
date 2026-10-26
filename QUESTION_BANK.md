@@ -1,210 +1,209 @@
 # WX Huddle: reviewed question bank
 
-The questions help colleagues understand one another, compare working preferences and identify practical ways to work together. Everyday examples are enough. Participants can speak in their shared room or video call, or type.
+Each player receives a different question. The tone is light and quirky, with everyday experiences and useful working preferences behind the humour. Everyday examples are enough. Participants can speak in their shared room or video call, or type.
 
 Review criteria: each card has a specific purpose, asks for a clear example or decision, and gives a colleague something worth responding to. Related situations replace arbitrary word limits and fictional restrictions.
 
 ## Welcome
 
-What is one small thing a colleague can do that makes your day better?
+Each player receives one different welcome question.
+
+1. If your mood today were a weather forecast, what would it be?
+2. Which tiny convenience deserves a standing ovation?
+3. What snack could negotiate you out of a bad mood?
+4. Which harmless talent should definitely be on your CV?
+5. If your morning routine had a warning label, what would it say?
+6. What everyday item do you defend more passionately than it deserves?
+7. What small achievement deserves its own victory music?
+8. What task can you do suspiciously quickly?
+9. What would you name the chapter of your week so far?
+10. What is your least impressive but most useful superpower?
+11. What ordinary sound tells you it is time for a break?
+12. What comfort item earns its place in your bag?
+13. What unnecessary thing are you unexpectedly good at?
+14. Which small ritual makes you feel ready for the day?
+15. What would you give a five-star review this week?
+16. What would your personal do-not-disturb sign say?
 
 ## Round 1: Share your perspective
 
-### B01: Your go-to strength
+### B01: Instructions included
 
-- Question: What do people usually come to you for help with?
-- Related situation: A new colleague needs that help today. What is the first useful step you would suggest?
-- Colleague’s follow-up: When is it best to involve you in that kind of problem?
-- Purpose: Discover strengths colleagues can use.
+- Question: If your working style came with an instruction sticker, what would it say?
+- Related situation: A new colleague joins today. Use your sticker to explain one thing that helps you work well.
+- Colleague’s follow-up: When would that advice be most useful?
+- Purpose: Explain your working style.
 
-### B02: A habit worth borrowing
+### B02: Most unnecessary drama
 
-- Question: What small habit saves you more time than people might expect?
-- Related situation: Someone tries it and finds it difficult. What would you simplify for them?
-- Colleague’s follow-up: When does that habit help you most?
-- Purpose: Share a practical habit without assuming it suits everyone.
+- Question: Which ordinary task would you nominate for Most Unnecessary Drama?
+- Related situation: You can make one small change to calm it down. What changes?
+- Colleague’s follow-up: What makes that task harder than it needs to be?
+- Purpose: Spot unnecessary friction in everyday tasks.
 
-### B03: A lesson from elsewhere
+### B03: Not in the job description
 
-- Question: What have you learned outside work that has helped you at work?
-- Related situation: A colleague wants to try it. What could they practise this week?
-- Colleague’s follow-up: What experience taught you that lesson?
-- Purpose: Connect interests and experience to useful skills.
+- Question: What is your most useful talent that never appears in your job description?
+- Related situation: A colleague wants to learn it. What is the first tip you would give?
+- Colleague’s follow-up: When has that talent helped someone?
+- Purpose: Recognise useful skills outside a job title.
 
-### B04: Help you remember
+### B04: The mute button
 
-- Question: What is a small thing a colleague did that made a difficult day easier?
-- Related situation: You want to offer the same support without creating extra work for them. What would you do?
-- Colleague’s follow-up: How could someone tell that this kind of help would be welcome?
-- Purpose: Learn how colleagues prefer to receive support.
+- Question: If you could put one daily frustration on mute, what would it be?
+- Related situation: You can reduce it with one simple habit. What would you try?
+- Colleague’s follow-up: How would you know the change was helping?
+- Purpose: Share a frustration and a small way to reduce it.
 
-### B05: Your kind of problem
+### B05: No preparation needed
 
-- Question: What kind of problem do you enjoy working through?
-- Related situation: Before starting, you can ask only one question. What would you ask?
-- Colleague’s follow-up: What tells you that you are making progress?
-- Purpose: Understand how people approach problems.
+- Question: What could you happily talk about for five minutes with no preparation?
+- Related situation: Your listener knows nothing about it. Give them one interesting starting point.
+- Colleague’s follow-up: What got you interested in it?
+- Purpose: Discover a colleague’s interests.
 
-### B06: A quiet win
+### B06: A very small trophy
 
-- Question: What is a small achievement you are pleased with, even if few people noticed it?
-- Related situation: You want to recognise someone who helped. What would you thank them for?
-- Colleague’s follow-up: What made that achievement worth the effort?
-- Purpose: Recognise effort and contributions that can go unnoticed.
+- Question: What is the smallest win you would still accept a trophy for?
+- Related situation: Someone helped you get there. Give them a short thank-you.
+- Colleague’s follow-up: What made that little win feel good?
+- Purpose: Celebrate progress and the people who helped.
 
-### B07: Work people do not see
+### B07: Please do not interrupt
 
-- Question: What part of your work takes more effort than colleagues might realise?
-- Related situation: Someone needs a quick favour while you are doing it. How would you explain what is involved?
-- Colleague’s follow-up: What information would help others plan around that work?
-- Purpose: Make hidden effort visible without blaming anyone.
+- Question: What should colleagues never interrupt you in the middle of?
+- Related situation: A colleague genuinely needs help. How could they get your attention without derailing you?
+- Colleague’s follow-up: What would help you get back into focus afterwards?
+- Purpose: Agree helpful ways to interrupt and regain focus.
 
-### B08: Joining the conversation
+### B08: The meeting warning light
 
-- Question: What helps you feel ready to contribute in a group conversation?
-- Related situation: You have joined a discussion after it has started. What would help you catch up and contribute?
-- Colleague’s follow-up: What could the rest of us do to make that easier?
-- Purpose: Understand participation preferences.
+- Question: What is your personal sign that a meeting has gone on too long?
+- Related situation: You want to help the group finish kindly. What would you say?
+- Colleague’s follow-up: What would a useful ending to that meeting look like?
+- Purpose: Make meetings useful while being considerate.
 
-### B09: A topic you know well
+### B09: Instant bonus points
 
-- Question: What topic could you talk about for five minutes without preparing?
-- Related situation: The listener knows nothing about it. What is the first interesting thing you would tell them?
-- Colleague’s follow-up: What got you interested in that topic?
-- Purpose: Discover interests and practise explaining without jargon.
+- Question: What tiny thing instantly improves your opinion of a new colleague?
+- Related situation: They are joining remotely. How might you notice the same quality?
+- Colleague’s follow-up: Why does that small thing matter to you?
+- Purpose: Share small behaviours that build goodwill.
 
-### B10: A break that works
+### B10: Oddly enjoyable
 
-- Question: What makes a short break feel worthwhile to you?
-- Related situation: You have only two minutes between calls. What small version would still help?
-- Colleague’s follow-up: How do you notice that you need a break?
-- Purpose: Understand energy and sustainable working habits.
+- Question: What task do you secretly enjoy that other people seem to avoid?
+- Related situation: You need to persuade a beginner to give it a try. What makes it satisfying?
+- Colleague’s follow-up: When would you be happy for someone to ask you about it?
+- Purpose: Discover which tasks people enjoy.
 
-### B11: A reason to trust
+### B11: Advice on a mug
 
-- Question: What small behaviour makes you feel you can rely on someone?
-- Related situation: A plan goes wrong. What could that person do to keep your trust?
-- Colleague’s follow-up: What would you want to hear from them first?
-- Purpose: Discuss dependable behaviour and honest communication.
+- Question: What piece of everyday advice would you put on a mug?
+- Related situation: Someone takes that advice too literally. Add one useful qualification.
+- Colleague’s follow-up: What experience made that advice useful to you?
+- Purpose: Share practical advice with its context.
 
-### B12: Easier with practice
+### B12: An unexpected idea
 
-- Question: What is something you once found difficult that now feels routine?
-- Related situation: Someone is trying it for the first time. What would you tell them to make starting easier?
-- Colleague’s follow-up: What helped you improve most?
-- Purpose: Share learning and encouragement.
+- Question: What is the strangest place you have had a useful idea?
+- Related situation: You need a way to capture the next idea before you forget it. What would work?
+- Colleague’s follow-up: What helps you notice a good idea?
+- Purpose: Notice how useful ideas arrive.
 
-### B13: Something you stopped
+### B13: A harmless hill to defend
 
-- Question: What is one habit or task you stopped because it was not helping?
-- Related situation: A colleague still finds it useful. How would you explain your choice without dismissing theirs?
-- Colleague’s follow-up: What do you do instead?
-- Purpose: Discuss different working preferences respectfully.
+- Question: What harmless opinion are you willing to defend for thirty seconds?
+- Related situation: Someone has the opposite preference. What would you be curious to ask them?
+- Colleague’s follow-up: What would make you reconsider your opinion?
+- Purpose: Practise curiosity about different, low-stakes preferences.
 
-### B14: Feeling welcome
+### B14: Your starter pack
 
-- Question: What small thing helps you feel welcome when you join a new group?
-- Related situation: The new person is joining remotely. How could we offer the same welcome?
-- Colleague’s follow-up: How would you avoid putting that person on the spot?
-- Purpose: Make inclusion practical for in-person and remote colleagues.
+- Question: What would you put in a how-to-work-with-me starter pack?
+- Related situation: The pack has room for just one essential tip. Which one stays?
+- Colleague’s follow-up: What misunderstanding would that tip prevent?
+- Purpose: Make working expectations easier to understand.
 
-### B15: Making help easier
+### B15: Useful in unexpected places
 
-- Question: What makes a request for your help easy to respond to?
-- Related situation: You cannot help immediately. What would you say so the other person knows what to expect?
-- Colleague’s follow-up: What would you need to know before suggesting another way forward?
-- Purpose: Improve requests and expectations.
+- Question: What skill from outside work has unexpectedly saved you at work?
+- Related situation: A colleague wants to use it on a small task this week. What could they try?
+- Colleague’s follow-up: What part of the skill transfers best?
+- Purpose: Connect outside interests with useful skills.
 
-### B16: Energy outside work
+### B16: Ten minutes well spent
 
-- Question: What interest outside work gives you energy?
-- Related situation: It is a busy week. What small version could you still make time for?
-- Colleague’s follow-up: What do you enjoy most about it?
-- Purpose: Connect as people without requiring personal disclosure.
+- Question: What would make your ideal ten-minute break?
+- Related situation: You have only two minutes today. What small version would still help?
+- Colleague’s follow-up: How would you feel when you returned?
+- Purpose: Understand how colleagues like to recharge.
 
 ## Round 2: What would you do?
 
-Choose your first response, ask a colleague the question on your private card, then choose your response after the conversation. Share what you would actually say and why. The reveal shows named responses and changes of choice. Credits recognise asking and contributing; choices are not graded.
+Every player receives one unique question to answer and a different question to ask an assigned colleague. Randomised player order and a one-to-one rotation make sure each question goes to one recipient. A spoken or typed reply is recorded as that player’s answer; they do not need to submit it twice. The reveal shows each player’s question and complete answer.
 
-### D01: The five-minute favour
+### D01: Everyday curveballs
 
-You are finishing something due in twenty minutes. A colleague messages: “Could you help me quickly? It is urgent.” You do not yet know what they need. What would you do first?
+Every player has a different question. Read your own question, then answer the colleague assigned to ask you. Your complete answer will appear with your name.
 
-Response options:
+One question is assigned to each participant:
 
-- A  Start helping now and return to your own task afterwards.
-- B  Ask what is needed and by when before agreeing.
-- C  Offer a specific time after your deadline.
-- D  Help them find another person or another way.
-
-The final response also asks: “What would you actually say?” and “Why would you choose that response?”
-
-Each participant receives a different question:
-
-1. **What does urgent mean?:** What would you ask to find out when the help is actually needed?
-2. **The size of the request:** How would you check whether a five-minute favour is likely to take longer?
-3. **The person waiting:** How would you find out who is affected if the request waits?
-4. **Your own commitment:** What would you explain about the deadline you have already agreed to?
-5. **A smaller useful offer:** What could you offer if you have two minutes rather than twenty?
-6. **Another source of help:** How would you suggest someone else without making the person feel passed around?
-7. **A clear next step:** What would you want the other person to do after hearing your answer?
-8. **Conflicting priorities:** How would you decide whose input is needed when two commitments conflict?
-9. **Checking your understanding:** What would you ask before assuming you understand the problem?
-10. **A useful boundary:** How could you say you are unavailable while still being helpful?
-11. **A realistic promise:** What would you avoid promising before you know how much work is involved?
-12. **The effect of rushing:** What might go wrong if you agree and rush both tasks?
-13. **Keeping the person informed:** If you can help later, what time or update would you commit to?
-14. **Asking for a different form of help:** Could a short explanation help more than doing the task for them? When?
-15. **The cost of waiting:** What would change your decision from help later to help now?
-16. **Your preferred request:** How would you want someone to ask you for help in this situation?
+1. **Calendar veto:** Your calendar gets one new rule. What should it stop accepting?
+2. **A button for the day:** You can add one button to your workday. What would pressing it do?
+3. **Got a minute?:** A colleague asks Got a minute? when you do not. What is your friendliest honest reply?
+4. **Your inbox reviews you:** Your inbox sends you a performance review. What feedback does it give you?
+5. **The no-jargon bell:** Your team gets a no-jargon bell. Which phrase makes it ring first?
+6. **The easier-task voucher:** You can make one task fifty percent easier for everyone. Which task gets the upgrade?
+7. **Explain your job simply:** You explain your job to a curious ten-year-old. What would you say?
+8. **A title worth attending:** A meeting needs a genuinely useful title to earn your attendance. What title would work?
+9. **Rescue the group chat:** Your group chat is getting too noisy. What one rule saves it?
+10. **A note from your future self:** Your future self sends a one-line thank-you note. What did you do today to earn it?
+11. **Borrow some concentration:** You can borrow one extra hour of concentration. What would you use it for?
+12. **A habit retires:** You are allowed to retire one unhelpful work habit. Which one goes?
+13. **The new-colleague kit:** A new colleague gets a starter kit from you. What is the most useful thing inside?
+14. **The invisible-effort award:** You can give one invisible contribution a ridiculous award. What does it celebrate?
+15. **A polite interruption:** You spot a problem just as everyone agrees. What sentence would you use to interrupt politely?
+16. **A thank-you that lands:** Someone has made your day easier. What specific thank-you would you send?
 
 Discussion after the reveal:
 
-- What did someone say that made you reconsider your response?
-- What would a useful request for help include?
-- Which sentence from this discussion would you actually use?
+- Notice an answer that made you smile because it was familiar.
+- Listen for something new about a colleague’s working style.
+- Keep one idea for making an everyday task easier.
 
-Purpose: Use the conversation to understand what colleagues need when asking for or offering help.
+Purpose: Discover useful quirks and preferences behind everyday work.
 
-### D02: A concern before the decision
+### D02: Useful little upgrades
 
-A group is about to agree a plan. You see a possible problem that has not been discussed. Time is short, and several colleagues have already said yes. What would you do first?
+Every player has a different question. Read your own question, then answer the colleague assigned to ask you. Your complete answer will appear with your name.
 
-Response options:
+One question is assigned to each participant:
 
-- A  State your concern briefly before the decision is made.
-- B  Ask a question that helps the group test the concern.
-- C  Suggest a short check or small test before committing.
-- D  Ask for a follow-up with the decision owner before the plan is confirmed.
-
-The final response also asks: “What would you actually say?” and “Why would you choose that response?”
-
-Each participant receives a different question:
-
-1. **Understanding the proposal:** What would you clarify before deciding whether your concern affects the plan?
-2. **Naming the concern:** What would you say to raise the concern without criticising the person?
-3. **Checking an assumption:** What question could test the assumption behind the plan?
-4. **The missing perspective:** Whose experience might change how the group sees this decision?
-5. **Joining remotely:** What would help you raise a concern if you were joining online?
-6. **The effect on other people:** How would you explain who might be affected by the concern?
-7. **How urgent is the decision?:** What would you ask before accepting that the decision has to be made now?
-8. **A reversible decision:** Would your response change if the decision were easy to reverse? Why?
-9. **A small way to test it:** What could we check quickly instead of debating assumptions?
-10. **Evidence and confidence:** How would you explain what you know and what you are less certain about?
-11. **Making room to disagree:** What could the person leading the discussion say to invite a different view?
-12. **Staying constructive:** If the group disagrees with you, what would help you continue the conversation?
-13. **The decision owner:** Who would need to hear your concern before the decision is confirmed?
-14. **Following up afterwards:** If you cannot resolve the concern now, what follow-up would you ask for?
-15. **Explaining the trade-off:** What would you want the group to understand about the cost of proceeding?
-16. **Changing your own view:** What information would persuade you that proceeding is reasonable?
+1. **Keeper of everyone’s time:** You are Chief Keeper of Everyone’s Time for one day. What is your first sensible rule?
+2. **One free shortcut:** Your team gets one free shortcut. What should it make easier?
+3. **The sticky note of clarity:** You can attach a sticky note to every vague request. What would it say?
+4. **A laptop that understands:** Your laptop can finally understand one human instruction. What do you want it to understand?
+5. **The remote-meeting button:** A remote colleague gets one special button to improve meetings. What should it do?
+6. **A better word than urgent:** You can replace urgent with a more helpful sentence. What sentence would you use?
+7. **The smallest celebration:** You are organising the world’s smallest celebration. What everyday effort deserves it?
+8. **A human out-of-office reply:** Your out-of-office reply must sound helpful and human. What would it say?
+9. **The quiet project rescuer:** A teammate is quietly rescuing a project. What would you do to make their contribution visible?
+10. **The handover rescue question:** You get one question to rescue a confusing handover. What do you ask?
+11. **Bring them back in:** A colleague has an idea but keeps getting interrupted. What would you say to bring them back in?
+12. **An unwritten rule revealed:** You can make one unwritten workplace rule visible. What should newcomers know?
+13. **The tiny-improvement box:** Your team has a suggestion box that only accepts tiny improvements. What would you submit?
+14. **A graceful meeting exit:** You can give a meeting a graceful exit line. What is your line?
+15. **We have always done it this way:** Someone says We have always done it this way. What curious question would you ask?
+16. **Before it becomes a crisis:** A task is beginning to go wrong. What would make you ask for help sooner?
 
 Discussion after the reveal:
 
-- Which way of raising the concern would make you most willing to listen?
-- What information could change your mind?
-- What could we do to make questions easier to raise in our own discussions?
+- Pick out a small upgrade you would like to try.
+- Acknowledge a colleague who offered an unexpected idea.
+- Consider how one suggestion could work for our group.
 
-Purpose: Compare how colleagues raise concerns, listen to disagreement and decide what needs checking.
+Purpose: Turn familiar frustrations into small, helpful ideas.
 
 ## Round 3: Bad idea, better idea
 
