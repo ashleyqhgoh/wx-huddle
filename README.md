@@ -10,7 +10,7 @@ The programme lasts about 60 minutes. Every player receives a different welcome 
 2. **What would you do?:** two sets of sixteen quirky, individual questions. Each player receives one unique question to answer and a different question to ask an assigned colleague. A randomised one-to-one rotation ensures everyone asks once and receives one question. Each reply is automatically recorded as that player’s answer. The reveal shows their question and complete answer.
 3. **Bad idea, better idea:** sixteen different situations about communication, teamwork and useful working habits. Give a deliberately bad suggestion, replace it with a useful change, and answer a colleague’s question.
 
-The welcome, response board and word cloud show participant names and avatars. Each player’s latest written response appears in the cloud as one complete text with their name. Wording, punctuation and emoji stay together; answers are not split into keywords. Identical answers from different players remain separate. Earlier complete responses remain in the response history. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
+The welcome, response board and word cloud show participant names and avatars. Each player’s latest written response appears in the cloud as one complete text with their name. Wording, punctuation and emoji stay together; answers are not split into keywords. Identical answers from different players remain separate. Earlier complete responses remain in the response history. Players use one submission button with an optional answer box, without selecting or displaying a response type. A submission without text records participation and earns the same contribution credits. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
 
 During the discussion, a participant can finish a typed reply while later question turns run, until the final response window closes. Private preparation notes stay private. Replies to a colleague are shared when submitted; a final answer saved separately is shared at the reveal. Private cards, unshared takeaways and recognition votes remain private.
 
@@ -56,6 +56,6 @@ Private session and recovery keys are hashed on the server. A successful recover
 
 ## Validation
 
-The source passed 50 JavaScript checks and nine Python service integration checks. Coverage includes full-game credit totals, unique cards for sixteen players, role restrictions, unique question ownership and named answer reveals, typed and spoken responses, replies across question turns, reset, concurrent joins, recovery and SQLite persistence.
+The source passed 51 JavaScript checks and nine Python service integration checks. Coverage includes full-game credit totals, unique cards for sixteen players, role restrictions, unique question ownership and named answer reveals, one-button responses with and without text, replies across question turns, reset, concurrent joins, recovery and SQLite persistence.
 
 The Python service uses the same bundled engine in Node during these checks because the optional Python V8 wheel is unavailable in the build environment. End-to-end testing in a live Streamlit browser remains to be completed after publication.
