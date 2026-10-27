@@ -1,339 +1,616 @@
-# WX Huddle: reviewed question bank
+# WX Huddle question choices
 
-Each player receives a different question. The tone is light and quirky, with everyday experiences and useful working preferences behind the humour. Everyday examples are enough. Participants can speak in their shared room or video call, or type.
+Each player gets three questions to choose from at the welcome and in every round. Round two has two separate sets. All three options in a set are reserved for one player, so another player cannot get the same question. The bank supports up to sixteen players with 240 distinct primary questions.
 
-Review criteria: each card has a specific purpose, asks for a clear example or decision, and gives a colleague something worth responding to. Related situations replace arbitrary word limits and fictional restrictions.
+Picks save with the room and stay selected after reconnecting. A pick locks when its answer turn starts (or once the welcome answer is shared). The first option is the default if a player does not pick another. Round two passes the selected question to the colleague assigned to ask it.
+
+The tone mixes everyday quirks, personal stories and working habits. Players can answer with the single answer button and optional text box.
+
+## Questions
 
 ## Welcome
 
-Each player receives one different welcome question.
+### Set 1
 
-1. If your mood today were a weather forecast, what would it be?
-2. Which tiny convenience deserves a standing ovation?
-3. What snack could negotiate you out of a bad mood?
-4. Which harmless talent should definitely be on your CV?
-5. If your morning routine had a warning label, what would it say?
-6. What everyday item do you defend more passionately than it deserves?
-7. What small achievement deserves its own victory music?
-8. What task can you do suspiciously quickly?
-9. What would you name the chapter of your week so far?
-10. What is your least impressive but most useful superpower?
-11. What ordinary sound tells you it is time for a break?
-12. What comfort item earns its place in your bag?
-13. What unnecessary thing are you unexpectedly good at?
-14. Which small ritual makes you feel ready for the day?
-15. What would you give a five-star review this week?
-16. What would your personal do-not-disturb sign say?
+1. What snack gets you through a long afternoon?
+2. What's the emergency snack you refuse to share?
+3. Which office biscuit disappears suspiciously fast when you're around?
+
+### Set 2
+
+1. What's the first thing you do when you get home from work?
+2. Which song improves your commute immediately?
+3. What's your favourite tiny detour on the way home?
+
+### Set 3
+
+1. How many alarms does it take to negotiate you out of bed?
+2. What part of your morning are you absolutely not skipping?
+3. What's your most optimistic promise to yourself at bedtime?
+
+### Set 4
+
+1. What's in your bag that has no business still being there?
+2. Which thing do you always bring and almost never use?
+3. What have you borrowed once and immediately bought for yourself?
+
+### Set 5
+
+1. Which emoji does far too much work in your messages?
+2. What's your most overused phrase on a call?
+3. What message do you type, delete, then type again?
+
+### Set 6
+
+1. What small purchase has improved your workday more than expected?
+2. Which free thing made your week better?
+3. What's one cheap treat you think is underrated?
+
+### Set 7
+
+1. What do you have oddly strong opinions about at lunchtime?
+2. What's your reliable 'I can't decide' lunch order?
+3. Which food smells amazing until someone brings it into a meeting room?
+
+### Set 8
+
+1. What's a completely ordinary thing you're surprisingly competitive about?
+2. Which pointless skill would win you a tiny trophy?
+3. What game turns you from lovely colleague into ruthless opponent?
+
+### Set 9
+
+1. What's the last thing you searched for that made you laugh at yourself?
+2. Which browser tab has been open so long it pays rent?
+3. What do you keep meaning to learn and then immediately forget about?
+
+### Set 10
+
+1. What's your usual excuse for buying another notebook?
+2. Which stationery item are you weirdly loyal to?
+3. What's the nicest pen you've accidentally adopted?
+
+### Set 11
+
+1. What sound makes you instantly think 'workday'?
+2. What background noise actually helps you concentrate?
+3. What's your least favourite notification sound?
+
+### Set 12
+
+1. What tiny thing makes a Monday less Monday-ish?
+2. What's your Friday-afternoon personality like?
+3. What tells you a day is going surprisingly well?
+
+### Set 13
+
+1. Which app do you open without even meaning to?
+2. What harmless distraction gets you every time?
+3. What do you check 'for two minutes' and regret twenty minutes later?
+
+### Set 14
+
+1. What's the most useful thing you learned from a hobby?
+2. What hobby supplies have you bought with more hope than skill?
+3. What would you happily spend a free Saturday getting better at?
+
+### Set 15
+
+1. Which everyday chore do you secretly enjoy?
+2. What small job do you turn into an unnecessary production?
+3. What do you always do the long way, even though you know better?
+
+### Set 16
+
+1. What's something your colleagues would be surprised you collect?
+2. What's an oddly specific thing you know far too much about?
+3. What could you give a very enthusiastic five-minute talk about right now?
 
 ## Round 1: Share your perspective
 
-### B01: Instructions included
+### Set 1: Desk rules
 
-- Question: If your working style came with an instruction sticker, what would it say?
-- Related situation: A new colleague joins today. Use your sticker to explain one thing that helps you work well.
-- Colleague’s follow-up: When would that advice be most useful?
-- Purpose: Explain your working style.
+1. What's your most unreasonable desk rule?
+2. Which thing on your desk would you notice was missing within seconds?
+3. What does your workspace reveal about you that your job title does not?
 
-### B02: Most unnecessary drama
+After the answer: A colleague is borrowing your workspace for a day. Give them one friendly warning.
+Colleague’s follow-up: Has that always mattered to you, or did one incident start it?
 
-- Question: Which ordinary task would you nominate for Most Unnecessary Drama?
-- Related situation: You can make one small change to calm it down. What changes?
-- Colleague’s follow-up: What makes that task harder than it needs to be?
-- Purpose: Spot unnecessary friction in everyday tasks.
+### Set 2: Putting it off
 
-### B03: Not in the job description
+1. Which tiny work task do you put off as if it's a major life decision?
+2. What task do you suddenly find fascinating when you should be doing something else?
+3. What is your most elaborate way of avoiding a five-minute job?
 
-- Question: What is your most useful talent that never appears in your job description?
-- Related situation: A colleague wants to learn it. What is the first tip you would give?
-- Colleague’s follow-up: When has that talent helped someone?
-- Purpose: Recognise useful skills outside a job title.
+After the answer: You have ten minutes before lunch. Talk us through how you would finally get it done.
+Colleague’s follow-up: What usually gets you over the starting line?
 
-### B04: The mute button
+### Set 3: Your unofficial job
 
-- Question: If you could put one daily frustration on mute, what would it be?
-- Related situation: You can reduce it with one simple habit. What would you try?
-- Colleague’s follow-up: How would you know the change was helping?
-- Purpose: Share a frustration and a small way to reduce it.
+1. What do colleagues ask you for that isn't remotely in your job description?
+2. What is your unofficial job in a group of friends?
+3. What would your family say you are the designated expert on?
 
-### B05: No preparation needed
+After the answer: Someone new asks for your help with it. Give them your best beginner tip.
+Colleague’s follow-up: Do you enjoy being the go-to person for that?
 
-- Question: What could you happily talk about for five minutes with no preparation?
-- Related situation: Your listener knows nothing about it. Give them one interesting starting point.
-- Colleague’s follow-up: What got you interested in it?
-- Purpose: Discover a colleague’s interests.
+### Set 4: A very specific system
 
-### B06: A very small trophy
+1. What's a personal system you swear by that looks ridiculous from the outside?
+2. What do you organise beautifully while everything around it is chaos?
+3. Which list, reminder or ritual is doing a lot of heavy lifting in your life?
 
-- Question: What is the smallest win you would still accept a trophy for?
-- Related situation: Someone helped you get there. Give them a short thank-you.
-- Colleague’s follow-up: What made that little win feel good?
-- Purpose: Celebrate progress and the people who helped.
+After the answer: Your usual system is unavailable today. What is your makeshift version?
+Colleague’s follow-up: What happened that made you start doing it that way?
 
-### B07: Please do not interrupt
+### Set 5: Good instructions
 
-- Question: What should colleagues never interrupt you in the middle of?
-- Related situation: A colleague genuinely needs help. How could they get your attention without derailing you?
-- Colleague’s follow-up: What would help you get back into focus afterwards?
-- Purpose: Agree helpful ways to interrupt and regain focus.
+1. What simple task have you seen explained in the most complicated way?
+2. When did you confidently follow instructions and still get it spectacularly wrong?
+3. What do you always need someone to show you, even after they have explained it?
 
-### B08: The meeting warning light
+After the answer: Imagine you are explaining the task to a colleague on their first day. Give it another go.
+Colleague’s follow-up: Which bit would you warn them is easy to miss?
 
-- Question: What is your personal sign that a meeting has gone on too long?
-- Related situation: You want to help the group finish kindly. What would you say?
-- Colleague’s follow-up: What would a useful ending to that meeting look like?
-- Purpose: Make meetings useful while being considerate.
+### Set 6: Energy levels
 
-### B09: Instant bonus points
+1. What part of your day gets the best version of you?
+2. How can someone tell you need a break before you admit it?
+3. What's your personal equivalent of turning it off and on again?
 
-- Question: What tiny thing instantly improves your opinion of a new colleague?
-- Related situation: They are joining remotely. How might you notice the same quality?
-- Colleague’s follow-up: Why does that small thing matter to you?
-- Purpose: Share small behaviours that build goodwill.
+After the answer: You only have five minutes to recharge today. What would you do?
+Colleague’s follow-up: What do people sometimes misunderstand about that?
 
-### B10: Oddly enjoyable
+### Set 7: Small wins
 
-- Question: What task do you secretly enjoy that other people seem to avoid?
-- Related situation: You need to persuade a beginner to give it a try. What makes it satisfying?
-- Colleague’s follow-up: When would you be happy for someone to ask you about it?
-- Purpose: Discover which tasks people enjoy.
+1. What recent small win did you celebrate more than was strictly necessary?
+2. What used to take you ages that you can now do without thinking?
+3. What work achievement sounds boring but made you genuinely pleased?
 
-### B11: Advice on a mug
+After the answer: A colleague is struggling with the same thing. What encouragement would actually help?
+Colleague’s follow-up: Who would understand why that felt like a win?
 
-- Question: What piece of everyday advice would you put on a mug?
-- Related situation: Someone takes that advice too literally. Add one useful qualification.
-- Colleague’s follow-up: What experience made that advice useful to you?
-- Purpose: Share practical advice with its context.
+### Set 8: Help, please
 
-### B12: An unexpected idea
+1. What's your tell that you're stuck but trying to look as if you're fine?
+2. What kind of help do you love receiving, and what kind makes you twitch?
+3. When has someone made a difficult day easier without making a fuss?
 
-- Question: What is the strangest place you have had a useful idea?
-- Related situation: You need a way to capture the next idea before you forget it. What would work?
-- Colleague’s follow-up: What helps you notice a good idea?
-- Purpose: Notice how useful ideas arrive.
+After the answer: You need that kind of help today. Ask for it in one normal sentence.
+Colleague’s follow-up: What makes it easier for you to ask before things get messy?
 
-### B13: A harmless hill to defend
+### Set 9: Learning the hard way
 
-- Question: What harmless opinion are you willing to defend for thirty seconds?
-- Related situation: Someone has the opposite preference. What would you be curious to ask them?
-- Colleague’s follow-up: What would make you reconsider your opinion?
-- Purpose: Practise curiosity about different, low-stakes preferences.
+1. What did you learn the hard way that you now warn everyone about?
+2. What advice did you ignore until you found out exactly why it existed?
+3. What mistake was annoying at the time but is funny now?
 
-### B14: Your starter pack
+After the answer: Someone is about to make the same mistake. What would you tell them without sounding smug?
+Colleague’s follow-up: What do you do differently because of it?
 
-- Question: What would you put in a how-to-work-with-me starter pack?
-- Related situation: The pack has room for just one essential tip. Which one stays?
-- Colleague’s follow-up: What misunderstanding would that tip prevent?
-- Purpose: Make working expectations easier to understand.
+### Set 10: Your social battery
 
-### B15: Useful in unexpected places
+1. What is your ideal level of small talk before getting down to work?
+2. What makes you feel at home in a new group surprisingly quickly?
+3. What do you do at a gathering when you know exactly one person?
 
-- Question: What skill from outside work has unexpectedly saved you at work?
-- Related situation: A colleague wants to use it on a small task this week. What could they try?
-- Colleague’s follow-up: What part of the skill transfers best?
-- Purpose: Connect outside interests with useful skills.
+After the answer: A new colleague joins your next lunch. What is one easy way to include them?
+Colleague’s follow-up: What would make the same situation awkward for you?
 
-### B16: Ten minutes well spent
+### Set 11: Outside skills
 
-- Question: What would make your ideal ten-minute break?
-- Related situation: You have only two minutes today. What small version would still help?
-- Colleague’s follow-up: How would you feel when you returned?
-- Purpose: Understand how colleagues like to recharge.
+1. What skill from outside work sneaks into how you do your job?
+2. What did a hobby teach you that a training course never did?
+3. What are you patient with outside work that would surprise your colleagues?
 
-## Round 2: What would you do?
+After the answer: You get to teach the team a tiny part of it. What would we try first?
+Colleague’s follow-up: What hooked you on it in the first place?
 
-Every player receives one unique question to answer and a different question to ask an assigned colleague. Randomised player order and a one-to-one rotation make sure each question goes to one recipient. A spoken or typed reply is recorded as that player’s answer; they do not need to submit it twice. The reveal shows each player’s question and complete answer.
+### Set 12: A bit particular
 
-### D01: Everyday curveballs
+1. What are you fussy about that other people seem completely relaxed about?
+2. What harmless habit of yours would a new desk neighbour discover first?
+3. What do you redo after someone else has already done it perfectly well?
 
-Every player has a different question. Read your own question, then answer the colleague assigned to ask you. Your complete answer will appear with your name.
+After the answer: You have to compromise on it for one week. What could you live with?
+Colleague’s follow-up: Would you call it a useful habit or just your thing?
 
-One question is assigned to each participant:
+### Set 13: Making decisions
 
-1. **Calendar veto:** Your calendar gets one new rule. What should it stop accepting?
-2. **A button for the day:** You can add one button to your workday. What would pressing it do?
-3. **Got a minute?:** A colleague asks Got a minute? when you do not. What is your friendliest honest reply?
-4. **Your inbox reviews you:** Your inbox sends you a performance review. What feedback does it give you?
-5. **The no-jargon bell:** Your team gets a no-jargon bell. Which phrase makes it ring first?
-6. **The easier-task voucher:** You can make one task fifty percent easier for everyone. Which task gets the upgrade?
-7. **Explain your job simply:** You explain your job to a curious ten-year-old. What would you say?
-8. **A title worth attending:** A meeting needs a genuinely useful title to earn your attendance. What title would work?
-9. **Rescue the group chat:** Your group chat is getting too noisy. What one rule saves it?
-10. **A note from your future self:** Your future self sends a one-line thank-you note. What did you do today to earn it?
-11. **Borrow some concentration:** You can borrow one extra hour of concentration. What would you use it for?
-12. **A habit retires:** You are allowed to retire one unhelpful work habit. Which one goes?
-13. **The new-colleague kit:** A new colleague gets a starter kit from you. What is the most useful thing inside?
-14. **The invisible-effort award:** You can give one invisible contribution a ridiculous award. What does it celebrate?
-15. **A polite interruption:** You spot a problem just as everyone agrees. What sentence would you use to interrupt politely?
-16. **A thank-you that lands:** Someone has made your day easier. What specific thank-you would you send?
+1. Which everyday decision takes you an absurd amount of time?
+2. What do you decide instantly while everyone else is still comparing options?
+3. What is the smallest decision you have made a spreadsheet for?
 
-Discussion after the reveal:
+After the answer: You have to make that decision in sixty seconds. What matters most?
+Colleague’s follow-up: When does your usual approach help, and when does it get in the way?
 
-- Notice an answer that made you smile because it was familiar.
-- Listen for something new about a colleague’s working style.
-- Keep one idea for making an everyday task easier.
+### Set 14: Unexpected confidence
 
-Purpose: Discover useful quirks and preferences behind everyday work.
+1. What are you surprisingly brave about?
+2. What task makes you think, very quietly, that you are quite good at this?
+3. What can you handle calmly that would stress out most people you know?
 
-### D02: Useful little upgrades
+After the answer: Someone else is nervous about trying it. What would you say to them?
+Colleague’s follow-up: Did that confidence come naturally or take some practice?
 
-Every player has a different question. Read your own question, then answer the colleague assigned to ask you. Your complete answer will appear with your name.
+### Set 15: A good day
 
-One question is assigned to each participant:
+1. What makes a workday feel good even when nothing exciting happens?
+2. What would you add to an ordinary Tuesday if you had a magic extra half-hour?
+3. What tiny bit of your routine would you miss if you changed jobs?
 
-1. **Keeper of everyone’s time:** You are Chief Keeper of Everyone’s Time for one day. What is your first sensible rule?
-2. **One free shortcut:** Your team gets one free shortcut. What should it make easier?
-3. **The sticky note of clarity:** You can attach a sticky note to every vague request. What would it say?
-4. **A laptop that understands:** Your laptop can finally understand one human instruction. What do you want it to understand?
-5. **The remote-meeting button:** A remote colleague gets one special button to improve meetings. What should it do?
-6. **A better word than urgent:** You can replace urgent with a more helpful sentence. What sentence would you use?
-7. **The smallest celebration:** You are organising the world’s smallest celebration. What everyday effort deserves it?
-8. **A human out-of-office reply:** Your out-of-office reply must sound helpful and human. What would it say?
-9. **The quiet project rescuer:** A teammate is quietly rescuing a project. What would you do to make their contribution visible?
-10. **The handover rescue question:** You get one question to rescue a confusing handover. What do you ask?
-11. **Bring them back in:** A colleague has an idea but keeps getting interrupted. What would you say to bring them back in?
-12. **An unwritten rule revealed:** You can make one unwritten workplace rule visible. What should newcomers know?
-13. **The tiny-improvement box:** Your team has a suggestion box that only accepts tiny improvements. What would you submit?
-14. **A graceful meeting exit:** You can give a meeting a graceful exit line. What is your line?
-15. **We have always done it this way:** Someone says We have always done it this way. What curious question would you ask?
-16. **Before it becomes a crisis:** A task is beginning to go wrong. What would make you ask for help sooner?
+After the answer: Tomorrow looks packed. Which small piece of that good day would you protect?
+Colleague’s follow-up: Could a colleague help make that happen?
 
-Discussion after the reveal:
+### Set 16: Worth a recommendation
 
-- Pick out a small upgrade you would like to try.
-- Acknowledge a colleague who offered an unexpected idea.
-- Consider how one suggestion could work for our group.
+1. What have you recommended so many times you should probably earn commission?
+2. Which shortcut would you happily teach someone over coffee?
+3. What habit did you copy from someone and never look back?
 
-Purpose: Turn familiar frustrations into small, helpful ideas.
+After the answer: Give the least enthusiastic person in the room a reason to try it once.
+Colleague’s follow-up: Who might hate your recommendation, and why?
+
+## Round 2, first set: Your call
+
+### Set 1: Spare time
+
+1. The team gets a surprise free afternoon. What would you genuinely choose to do?
+2. You can trade one daily chore for one work task. What swap are you making?
+3. Someone gives you a spare hour with no messages allowed. Where does it go?
+
+### Set 2: A small warning
+
+1. A colleague asks for your personal survival guide. What's rule number one?
+2. Your first-day self gets one message from you now. What does it say?
+3. You have to warn your replacement about one harmless quirk of yours. What is it?
+
+### Set 3: Say it plainly
+
+1. You can ban one overused work phrase for a week. Which one goes?
+2. You must replace 'just checking in' with something honest. What do you write?
+3. Every meeting needs a title that tells the truth. What would you call a typical one?
+
+### Set 4: Calendar complaints
+
+1. Your calendar can speak for ten seconds. What is it complaining about?
+2. You can swap one recurring meeting for anything else. What replaces it?
+3. An invitation arrives with no agenda. What's your actual first thought?
+
+### Set 5: Your soundtrack
+
+1. A new teammate gets to choose your working soundtrack. What guidance do you give?
+2. You have to pick a team walk-up song. What's your nomination?
+3. The office gets a quiet hour or a music hour. Which one do you campaign for?
+
+### Set 6: Desk upgrades
+
+1. You get a small budget to improve your desk. What are you buying first?
+2. Your workspace has to fit into one tote bag. What makes the cut?
+3. A colleague offers you their fancy chair or their extra monitor. Which do you take?
+
+### Set 7: Inbox mountain
+
+1. Your inbox becomes a physical pile. What does the room look like?
+2. You can have one email answered instantly. What kind of email is it?
+3. You must choose between a cleared inbox and a cleared to-do list. Which feels better?
+
+### Set 8: Teach us something
+
+1. You have to teach a colleague something unrelated to work in ten minutes. What is it?
+2. The team starts a lunchtime club based on your interests. What are we doing?
+3. A colleague dares you to enter a very low-stakes contest. What contest gives you a chance?
+
+### Set 9: A small thank-you
+
+1. Someone leaves you a mystery parcel that would improve your day. What's inside?
+2. A teammate wants to thank you without buying anything. What would you appreciate?
+3. You can award yourself a small treat after a difficult task. What do you choose?
+
+### Set 10: Approach with care
+
+1. Your working style needs a warning sticker. What should it say?
+2. You have to write an honest out-of-office message for your brain. What does it say?
+3. A colleague asks when to approach you with a tricky question. What timing advice do you give?
+
+### Set 11: Offline for a day
+
+1. You accidentally get an afternoon with no Wi-Fi. What can you still get done?
+2. Your favourite app vanishes for a day. What old-fashioned workaround do you use?
+3. You must explain your job without using a screen. What prop would you grab?
+
+### Set 12: Lunch is on you
+
+1. The team lunch booking is left entirely to you. What's your strategy?
+2. You can choose the one snack that is always stocked at work. What is it?
+3. A visiting colleague has thirty minutes for lunch. Where would you send them?
+
+### Set 13: Show and tell
+
+1. You're asked to bring one non-work item to show the team. What do you bring?
+2. Your desk gets one photo that isn't of a person. What is in it?
+3. You can hang one completely honest sign above your workspace. What does it say?
+
+### Set 14: Borrow a knack
+
+1. You get to watch someone else do your job for an hour. What would be hardest not to comment on?
+2. You can borrow one colleague's knack for a day. What sort of knack would help you most?
+3. You are paired with your opposite working style. What ground rule would help?
+
+### Set 15: The boring bit
+
+1. A tiny task has been haunting your list for weeks. How would you bribe yourself to finish it?
+2. You can outsource one boring part of your week to a very reliable robot. What is its job?
+3. A friend challenges you to finish work on time all week. What would you have to change?
+
+### Set 16: A good moment
+
+1. You can replay one pleasant moment from the past week. Which one?
+2. Your week gets a review from you out of five stars. What's the best bit of the review?
+3. Someone asks what you're looking forward to after work. What's your honest answer?
+
+## Round 2, second set: A little more you
+
+### Set 1: Group plans
+
+1. Your team is taking a short train trip together. Which role do you naturally end up with?
+2. A group plan starts going sideways. Are you fixing it, finding snacks, or laughing first?
+3. You're organising a small outing. What detail are you definitely overthinking?
+
+### Set 2: A quick question
+
+1. A colleague says 'quick question' as you're leaving. What do you actually say?
+2. You need to decline a favour without writing a novel. What is your version?
+3. A friend sends a voice note longer than your commute. How are you handling it?
+
+### Set 3: Home meets work
+
+1. You can make one household rule apply at work. Which one might actually help?
+2. You can borrow one good work habit for home. Which one would make life easier?
+3. Your home and work to-do lists merge for a day. What gets done first?
+
+### Set 4: A little less dull
+
+1. You can make a boring task 10% more enjoyable. What's your trick?
+2. You have to turn a dull team chore into a friendly contest. How would it work?
+3. You can pair an annoying job with a small pleasure. What combination would you choose?
+
+### Set 5: Speaking your mind
+
+1. A colleague wants your honest opinion on an idea you don't like. What's your opening line?
+2. You change your mind halfway through a discussion. How do you say so?
+3. You have a much simpler suggestion after everyone has made a complicated plan. How do you bring it up?
+
+### Set 6: Try something new
+
+1. Your team swaps hobbies for a weekend. What are you making someone try?
+2. You must enter a beginner class with a colleague. What class would be fun to be bad at?
+3. Your team has an hour to learn something for no practical reason. What do you vote for?
+
+### Set 7: Awkward moments
+
+1. You catch a tiny mistake that nobody else has noticed. What makes you decide to mention it?
+2. You send a message to the wrong chat, but it's harmless. What's your recovery line?
+3. You forget someone's name mid-introduction. How do you rescue the moment?
+
+### Set 8: Your own rhythm
+
+1. Someone rearranges your usual routine to help you. What change would you welcome?
+2. You get to move your workday two hours earlier or later. Which way do you go?
+3. You can protect one part of the day from interruptions. Which part gets the shield?
+
+### Set 9: A rough day
+
+1. A teammate is having an obviously rotten day. What's your low-key offer of help?
+2. A friend needs cheering up but hates pep talks. What do you do instead?
+3. You notice someone quietly carrying too much. How would you check in without making it a big thing?
+
+### Set 10: Your work mascot
+
+1. You have to pick a mascot for how you work. What creature is it, and why?
+2. Your approach to deadlines gets a film title. What title fits?
+3. Your desk has to be described as a restaurant. What kind of place is it?
+
+### Set 11: Before you say yes
+
+1. You're given a confusing task and can ask only one question first. What's the question?
+2. Someone says 'use your judgement' and disappears. What do you work out before starting?
+3. You're asked to help on something completely new. What would make you comfortable saying yes?
+
+### Set 12: Team traditions
+
+1. Your team starts a small tradition. What would you want it to be?
+2. You can replace birthday singing at work with something else. What's the replacement?
+3. You have to invent an award people would actually enjoy receiving. What is it for?
+
+### Set 13: A bit of appreciation
+
+1. A colleague asks what makes feedback easy for you to hear. What would you tell them?
+2. You did a good job and nobody noticed. How would you like someone to recognise it?
+3. You can choose public praise, a private note or practical help. Which means most to you?
+
+### Set 14: Shared-space grumbles
+
+1. The office fridge gets a spokesperson. What's its first announcement?
+2. You can solve one tiny shared-space annoyance overnight. Which one earns your vote?
+3. Your team is designing a break room from scratch. What's the one thing you insist on?
+
+### Set 15: Good enough
+
+1. Someone challenges you to leave one thing imperfect today. What can you let go of?
+2. You have to finish something at 'good enough'. How do you know you're there?
+3. You discover a quicker way after doing something the long way for months. What is your first reaction?
+
+### Set 16: A nicer tomorrow
+
+1. You can put one thing from today into next week's routine. What might stick?
+2. You get to end the week with a ten-minute team ritual. What would feel nice rather than forced?
+3. A colleague asks what would make tomorrow easier for you. What's a small, realistic answer?
 
 ## Round 3: Bad idea, better idea
 
-### F01: The meeting that grows
+### Set 1: Meeting mayhem
 
-- Bad suggestion: Invent a rule that turns a ten-minute decision into an all-afternoon meeting.
-- Useful change: Replace it with one habit that keeps the decision moving while people can contribute.
-- Colleague’s follow-up: How would we know that the meeting has achieved what it needed to?
-- Purpose: Use time well while making space for contributions.
+1. How would you make a ten-minute meeting last all afternoon?
+2. What meeting rule would make you quietly search for another job?
+3. How would you design a team catch-up that nobody ever looks forward to?
 
-### F02: A request nobody can answer
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What would make you happy to accept the next invitation?
 
-- Bad suggestion: Write a request for help that leaves out the information the other person needs.
-- Useful change: Rewrite it with a clear request and when the help is needed.
-- Colleague’s follow-up: What would help you give an honest answer to that request?
-- Purpose: Make requests easier to understand and respond to.
+### Set 2: Message overload
 
-### F03: Feedback that goes nowhere
+1. How would you make a team chat impossible to keep up with?
+2. What would be the most annoying way to announce a tiny update?
+3. How could someone turn one simple question into thirty notifications?
 
-- Bad suggestion: Give feedback that sounds important but leaves the person guessing what to change.
-- Useful change: Make it specific, respectful and clear about a useful next step.
-- Colleague’s follow-up: How would the person know what to try differently?
-- Purpose: Give feedback people can use.
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What sort of message gets a quick, useful reply from you?
 
-### F04: Every message is urgent
+### Set 3: First-day chaos
 
-- Bad suggestion: Invent a notification rule that would interrupt everyone all day.
-- Useful change: Replace it with a way to distinguish urgent requests from things that can wait.
-- Colleague’s follow-up: What response time should the sender reasonably expect?
-- Purpose: Set clear expectations about availability.
+1. How would you make your first day at a new job unnecessarily confusing?
+2. What is the least helpful welcome pack you could give a new teammate?
+3. How could we make introducing yourself to a new group as awkward as possible?
 
-### F05: The unfinished handover
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What small welcome would you have appreciated on your own first day?
 
-- Bad suggestion: Invent a handover message that makes the next person start from scratch.
-- Useful change: Add the information that would let them take the next step confidently.
-- Colleague’s follow-up: What should happen if they discover a gap?
-- Purpose: Support continuity and clear handovers.
+### Set 4: The missing file
 
-### F06: A difficult first week
+1. How would you name files so future-you has no chance of finding them?
+2. What is the worst possible system for storing something everyone needs?
+3. How could you make a shared folder feel like a treasure hunt with no treasure?
 
-- Bad suggestion: Invent a first-day rule that makes a new colleague afraid to ask questions.
-- Useful change: Replace it with one thing that makes asking for help easier.
-- Colleague’s follow-up: How could we check whether the new colleague has what they need?
-- Purpose: Help new colleagues get started.
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What is your own trick for finding things again?
 
-### F07: The people the room forgets
+### Set 5: Lunch logistics
 
-- Bad suggestion: Invent a meeting habit that makes online participants disappear from the conversation.
-- Useful change: Change it so someone online can contribute at the same time as people in the room.
-- Colleague’s follow-up: What would the person leading the discussion need to do?
-- Purpose: Include remote participants in actual decisions.
+1. How would you turn choosing lunch into a full team crisis?
+2. What lunch-booking system would cause maximum confusion?
+3. How could an ordinary coffee run become a remarkably bad group project?
 
-### F08: Everything comes first
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What would make the plan easy for you to join?
 
-- Bad suggestion: Invent a priority rule that makes every task equally urgent.
-- Useful change: Replace it with one question that helps people choose what to do next.
-- Colleague’s follow-up: Who should help resolve conflicting commitments?
-- Purpose: Make priorities and trade-offs discussable.
+### Set 6: Focus? Never heard of it
 
-### F09: A mistake nobody mentions
+1. How would you guarantee you never finish a thought at work?
+2. What desk-neighbour habit would destroy your concentration fastest?
+3. How could someone design the least restful five-minute break?
 
-- Bad suggestion: Invent a response to a small mistake that would make people hide the next one.
-- Useful change: Replace it with a first response that helps people explain what happened and put it right.
-- Colleague’s follow-up: What would you ask before deciding what should change?
-- Purpose: Make it easier to raise problems early.
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What helps you get your brain back on track?
 
-### F10: Knowledge only one person has
+### Set 7: A terrible handover
 
-- Bad suggestion: Invent a rule that makes useful information impossible to find when its owner is away.
-- Useful change: Suggest one small way to make that information available to others.
-- Colleague’s follow-up: How would you keep it useful without creating lots of extra work?
-- Purpose: Share knowledge in a sustainable way.
+1. How would you hand over a task so the next person has to become a detective?
+2. What is the least useful note you could leave before going on leave?
+3. How could you explain a familiar job while leaving out every important detail?
 
-### F11: Credit goes missing
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What do you personally look for first in a handover?
 
-- Bad suggestion: Invent an award that recognises whoever speaks loudest, regardless of who helped.
-- Useful change: Change the award so it recognises a contribution that often goes unnoticed.
-- Colleague’s follow-up: What specific contribution would you want to thank someone for?
-- Purpose: Recognise useful effort fairly.
+### Set 8: Everything is urgent
 
-### F12: Agreement at any cost
+1. How would you make every single request sound like an emergency?
+2. What to-do list rule would ensure the important job never gets done?
+3. How could you make deciding what to do next take longer than doing it?
 
-- Bad suggestion: Invent a discussion rule that makes everyone pretend to agree.
-- Useful change: Replace it with a way to invite disagreement before the decision is final.
-- Colleague’s follow-up: What would make it safe and worthwhile to offer a different view?
-- Purpose: Improve how the group handles disagreement.
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What helps you choose when several people want something at once?
 
-### F13: Focus is forbidden
+### Set 9: Feedback gone wrong
 
-- Bad suggestion: Invent a working habit that makes uninterrupted thinking impossible.
-- Useful change: Suggest one boundary that protects focus while leaving a route for genuinely urgent help.
-- Colleague’s follow-up: What would colleagues need to know for that boundary to work?
-- Purpose: Balance focused work and availability.
+1. What feedback would leave someone more confused than before?
+2. How would you review a piece of work without saying anything useful?
+3. What is the worst timing for a perfectly reasonable piece of feedback?
 
-### F14: An explanation full of jargon
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What sort of feedback has actually helped you improve?
 
-- Bad suggestion: Explain a simple task in a way that only an expert could understand.
-- Useful change: Explain it again in words a new colleague could act on.
-- Colleague’s follow-up: How would you check what the listener understood?
-- Purpose: Make explanations useful to the listener.
+### Set 10: Learning the impossible way
 
-### F15: Done, but not finished
+1. How would you teach a beginner something while making it feel impossible?
+2. What training session would you spend mostly watching the clock through?
+3. How could you turn a useful tip into a wildly intimidating instruction manual?
 
-- Bad suggestion: Invent a definition of done that guarantees someone will have to redo the task.
-- Useful change: Replace it with a clear outcome the next person could check.
-- Colleague’s follow-up: Who should agree what done means before the work starts?
-- Purpose: Agree useful expectations before work begins.
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What helps you relax when you are learning something new?
 
-### F16: Help arrives too late
+### Set 11: Plans upon plans
 
-- Bad suggestion: Invent a rule that makes people wait until the last minute to say they are stuck.
-- Useful change: Replace it with one early sign or check-in that makes asking for help easier.
-- Colleague’s follow-up: What could the person offering help do without taking over?
-- Purpose: Support early help and shared problem solving.
+1. How would you plan a simple team outing so nobody knows what is happening?
+2. What packing strategy would guarantee you forget the one thing you need?
+3. How could you over-prepare for a small task and still not be ready?
 
-## Closing questions
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What is the one detail you like settled before a plan starts?
 
-1. What did you learn about how a colleague likes to work?
-2. Which question from today would you ask earlier in a real situation?
-3. What will you include next time you ask a colleague for help?
-4. What is one strength you now know a colleague can offer?
-5. What would help you make a useful contribution when joining online?
-6. Which sentence from today would help you raise a concern respectfully?
-7. What could you do to make a new colleague feel welcome?
-8. What did you hear that changed your first response to a situation?
-9. What would you include in a handover to make the next person’s job easier?
-10. Which working preference would you like to understand better about a colleague?
-11. What will you try next time two commitments compete for your time?
-12. What could you say when you cannot help immediately?
-13. What contribution from today would you like to thank someone for?
-14. What is one small change that would help our group hear different views?
-15. Which useful habit shared today would you like to try?
-16. What is one thing you will do differently before our next huddle?
+### Set 12: The invisible teammate
+
+1. How would you run a call so the remote person never gets a word in?
+2. What team habit would make a quiet person disappear from the conversation?
+3. How could you ask everyone for ideas and make it impossible to contribute?
+
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What makes it easy for you to jump into a conversation?
+
+### Set 13: Help that does not help
+
+1. How would you offer help in a way that creates more work for the other person?
+2. What is the most unhelpful response to someone saying they are stuck?
+3. How could you take over a task while claiming you are only lending a hand?
+
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What would useful help look like if you were the one struggling?
+
+### Set 14: The disappearing thank-you
+
+1. How would you organise an award that overlooks everyone who did the work?
+2. What is the least convincing thank-you message you could write?
+3. How could you celebrate a team win while making it feel strangely joyless?
+
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What kind of appreciation do you actually remember?
+
+### Set 15: A break with extra work
+
+1. How would you turn a team break into another thing people need to prepare for?
+2. What compulsory fun activity would make you wish you were back at your desk?
+3. How could you make a free afternoon feel like homework?
+
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What would you choose for a break with colleagues instead?
+
+### Set 16: Tomorrow can deal with it
+
+1. How would you leave future-you the worst possible start to tomorrow?
+2. What end-of-day habit would guarantee a frantic morning?
+3. How could you make a small unfinished job grow into a Monday problem?
+
+After the bad idea: Now give us the version you would actually want to try.
+Colleague’s follow-up: What tiny thing could you do today that tomorrow-you would appreciate?
+
+## Closing reflections
+
+These are dealt individually as reflection cards.
+
+1. Who surprised you today, and how?
+2. What answer are you still thinking about?
+3. What did you discover you have in common with someone?
+4. Whose tip might you quietly steal?
+5. What did you learn about a colleague that you would never find on their CV?
+6. What would you like to ask someone more about over coffee?
+7. Which answer made you laugh because it sounded a bit like you?
+8. What is one thing you now know to ask a colleague for help with?
+9. What small habit from today would suit your life?
+10. What is one thing you might stop overthinking after this?
+11. Who would you like to thank for something they said?
+12. What would you like your colleagues to remember about you?
+13. Which question was more interesting to answer than you expected?
+14. What would make our next get-together more enjoyable?
+15. What did you hear that made you see something differently?
+16. What is a small thing you could make easier for someone this week?
