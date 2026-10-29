@@ -12,7 +12,7 @@ The programme lasts about 60 minutes. Every player chooses from three different 
 
 All three options are reserved for one player: no other player receives those questions. The 240 primary questions cover sixteen players, three options each, across the welcome, round one, both discussion sets and round three. Picks save with the room and survive reconnects. They lock when the answer turn starts, or after the welcome answer is shared. The first option is selected by default so automatic play can continue.
 
-The live word cloud groups keywords, common phrases, spelling variants and known synonyms from each player’s latest written answer. Theme size and colour emphasis reflect how many distinct players mention it; repeated words from one person count once. The most-mentioned themes are highlighted. Tap a theme to see the complete original answers with names and avatars. There is no response-history section. Grouping runs locally with a reviewed vocabulary and conservative typo matching; it is not an external AI service and unfamiliar expressions may remain separate.
+The live cloud keeps each player's latest written answer in one complete tile. Identical answers and clear short synonyms or typos group together, with the most shared answers highlighted. Longer or unfamiliar phrases stay whole. Tap a tile to see all original answers and names. There is no response-history section. Grouping uses a conservative local vocabulary, without an external AI service.
 
 Players use one submission button with an optional answer box, without selecting or displaying a response type. An answer without text records participation and earns the same contribution credits. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
 
@@ -58,9 +58,13 @@ Rooms expire after 24 hours. SQLite shares state across browser sessions in one 
 
 Private session and recovery keys are hashed on the server. A successful recovery rotates the key and invalidates the previous device’s credential.
 
+The host lobby shows its room code, joining link and QR above the player list on laptops and phones. The main participant link opens the join form; saved seats remain available through Resume. Remove clears one saved seat, and Clear saved seats clears the list for that browser role after confirmation. These controls forget local access shortcuts without deleting rooms, answers or other players. Keep a private recovery key if you need to return later.
+
+Soft minor-key background music begins after the host creates or starts a room, unless muted. The visible Music toggle also enables it manually after a reload. Players opt in on their own devices. Music becomes quieter during answers and stops when the game is paused or finished. Browser audio still requires a user gesture.
+
 ## Validation
 
-The source passed 68 JavaScript checks and ten Python service integration checks. Coverage includes all 240 distinct options, three private choices per player at 2, 14 and 16 seats, selection persistence, turn locking, round-two handoff to the assigned asker, keyword grouping and counts, complete named answer details, full-game credits and timers, host permissions, all thirty avatars, mobile entry, concurrent joins and credential recovery.
+The source passed 75 JavaScript checks and ten Python service integration checks. Coverage includes all 240 distinct options, three private choices per player at 2, 14 and 16 seats, selection persistence, turn locking, round-two handoff to the assigned asker, keyword grouping and counts, complete named answer details, full-game credits and timers, host permissions, all thirty avatars, mobile entry, concurrent joins and credential recovery.
 
 The Python service tests exercise the production transaction layer against the exact bundled engine in Node. The generated Streamlit file is also checked against a fresh deterministic build. Browser verification checks the deployed Streamlit component separately.
 
