@@ -6,13 +6,15 @@ A hybrid huddle for approximately 14 colleagues, supporting 2–16 players. Part
 
 The programme lasts about 60 minutes. Every player chooses from three different welcome questions. The welcome can finish earlier when everyone is ready. The app chooses players, runs answer timers and moves between rounds automatically.
 
-1. **Share your perspective:** choose one of three questions about everyday quirks, habits, interests and working preferences. Tell a short story, then respond to a related situation and a colleague’s follow-up.
-2. **What would you do?:** two discussion sets. In each set, choose one of three questions to answer. The selected question appears on the card of the colleague assigned to ask it. Everyone asks once and receives one question. Each reply becomes that player’s complete answer, shown with their question at the reveal.
+1. **Share your perspective:** choose one of three questions about team experiences, strengths, support and working together. Tell a short story, then respond to a related situation and a colleague’s follow-up.
+2. **What would you do?:** two discussion sets. In each set, choose one of three questions about team connection or everyday collaboration to answer. The selected question appears on the card of the colleague assigned to ask it. Everyone asks once and receives one question. Each reply becomes that player’s complete answer, shown with their question at the reveal.
 3. **Bad idea, better idea:** choose one of three situations, give a deliberately terrible suggestion, then turn it into something you would actually try.
 
 All three options are reserved for one player: no other player receives those questions. The 240 primary questions cover sixteen players, three options each, across the welcome, round one, both discussion sets and round three. Picks save with the room and survive reconnects. They lock when the answer turn starts, or after the welcome answer is shared. The first option is selected by default so automatic play can continue.
 
-The welcome, response board and word cloud show participant names and avatars. Each player’s latest written response appears in the cloud as one complete text with their name. Wording, punctuation and emoji stay together; answers are not split into keywords. Identical answers from different players remain separate. Earlier complete responses remain in the response history. Players use one submission button with an optional answer box, without selecting or displaying a response type. A submission without text records participation and earns the same contribution credits. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
+The live word cloud groups keywords, common phrases, spelling variants and known synonyms from each player’s latest written answer. Theme size and colour emphasis reflect how many distinct players mention it; repeated words from one person count once. The most-mentioned themes are highlighted. Tap a theme to see the complete original answers with names and avatars. There is no response-history section. Grouping runs locally with a reviewed vocabulary and conservative typo matching; it is not an external AI service and unfamiliar expressions may remain separate.
+
+Players use one submission button with an optional answer box, without selecting or displaying a response type. An answer without text records participation and earns the same contribution credits. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
 
 During the discussion, a participant can finish a typed reply while later question turns run, until the final response window closes. Private preparation notes stay private. Replies to a colleague are shared when submitted; a final answer saved separately is shared at the reveal. Private cards, unshared takeaways and recognition votes remain private.
 
@@ -58,8 +60,8 @@ Private session and recovery keys are hashed on the server. A successful recover
 
 ## Validation
 
-The source passed 60 JavaScript checks and ten Python service integration checks. Coverage includes all 240 distinct options, three private choices per player at 2, 14 and 16 seats, selection persistence, turn locking, round-two handoff to the assigned asker, complete named answers, full-game credits and timers, host permissions, all thirty avatars, mobile entry, concurrent joins and credential recovery.
+The source passed 68 JavaScript checks and ten Python service integration checks. Coverage includes all 240 distinct options, three private choices per player at 2, 14 and 16 seats, selection persistence, turn locking, round-two handoff to the assigned asker, keyword grouping and counts, complete named answer details, full-game credits and timers, host permissions, all thirty avatars, mobile entry, concurrent joins and credential recovery.
 
 The Python service tests exercise the production transaction layer against the exact bundled engine in Node. The generated Streamlit file is also checked against a fresh deterministic build. Browser verification checks the deployed Streamlit component separately.
 
-Rooms restored from before the question-choice release keep their original question bank until the host starts a fresh session.
+Existing rooms keep the question bank they started with. New rooms and rooms restarted by their host use the team-bonding question bank. The duplicate response-history section is removed for every room.
