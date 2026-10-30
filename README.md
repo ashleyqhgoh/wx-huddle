@@ -4,7 +4,7 @@ A hybrid huddle for approximately 14 colleagues, supporting 2–16 players. Part
 
 ## The game
 
-The programme allows about 60 minutes. From the welcome onward, each player sees three question choices only when their turn begins. Everyone sees the current player’s avatar, name and chosen question. Shuffle to next player saves their complete answer and selects someone who has not had a turn in that round. The timer advances if needed, and the final player moves the group to the next round.
+The programme allows about 60 minutes. From the welcome onward, each player sees three question choices only when their turn begins. Everyone sees the current player’s avatar, name and chosen question. Share answer requires a written answer and keeps the player, selected question and full answer on screen for discussion. The countdown waits until that player separately clicks Shuffle to next player. Shuffle selects someone who has not had a turn in the round; the final player moves the group to the next round. Unanswered turns still have a timer fallback. Discussion can extend the planned hour.
 
 1. **Share your perspective:** choose one of three questions and tell a work story.
 2. **What would you do?:** choose one question and share how you would handle it.
@@ -14,7 +14,7 @@ Each player answers once per round. There are no extra rules, follow-up question
 
 The live cloud keeps each player's latest written answer in one complete tile. Identical answers and clear short synonyms or typos group together, with the most shared answers highlighted. Longer or unfamiliar phrases stay whole. Tap a tile to see all original answers and names. There is no response-history section. Grouping uses a conservative local vocabulary, without an external AI service.
 
-Players use one Shuffle to next player button with an optional answer box, without selecting or displaying a response type. An answer without text records participation and earns the same contribution credits. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
+Players must submit a nonempty written answer using Share answer. Only then does Shuffle to next player appear. Submitting never advances the turn. Everyone can discuss the visible answer before the current player shuffles. Refreshing or reconnecting preserves this discussion; an expired countdown cannot end it. No response-type selector is shown. Spoken contributions take place in the shared room or existing video call; the game does not record, transcribe or carry voice audio.
 
 One complete answer earns 30 contribution credits per round. A closing reflection earns 10, giving 100 base credits, plus peer recognition. Unselected questions, unshared takeaways and recognition votes remain private.
 
@@ -33,7 +33,7 @@ The public hosting origin is used for invitation links. An optional Streamlit se
 
 ## Host permissions
 
-Only the room’s actual owner in host entry can start, pause, resume, skip, restart, end, reorder players or correct credits. Opening a host URL does not give a guest those permissions. Both the server and the interface enforce the restrictions. The current player can save their own answer and shuffle to the next unplayed seat; other players cannot advance that turn. Repeated requests cannot create duplicate answers or skip extra turns. Host and participant browser sessions are saved separately, so a participant link does not reopen a cached host seat.
+Only the room’s actual owner in host entry can start, pause, resume, skip, restart, end, reorder players or correct credits. Opening a host URL does not give a guest those permissions. Both the server and the interface enforce the restrictions. The current player first submits their own answer and later shuffles to the next unplayed seat; other players cannot advance that turn. Repeated requests cannot create duplicate answers or skip extra turns. Host and participant browser sessions are saved separately, so a participant link does not reopen a cached host seat.
 
 Creating a room opens My cards: the host is already a player. The room code, direct joining link and QR appear above the player list. The host can switch between My cards and Host controls. Clear records & restart removes responses, credits, votes, readiness and the word cloud while retaining joined names, avatars and private recovery credentials.
 
@@ -64,8 +64,8 @@ Soft minor-key background music begins after creating, joining or starting a roo
 
 ## Validation
 
-The source passed 91 JavaScript checks and twelve Python service integration checks. Coverage includes three unique private options at 2, 14 and 16 seats, exactly one answer per player per round, hidden future questions, shared current-player avatars and prompts, participant shuffle without repeats, atomic concurrent retries, complete automatic progression, choice persistence and locking, whole-answer grouping, credits, host permissions, all thirty avatars, host creation into player view, participant QR, mobile entry, concurrent joins and credential recovery. Legacy-flow checks preserve existing games.
+The source passed 93 JavaScript checks and twelve Python service integration checks. Coverage includes three unique private options at 2, 14 and 16 seats, exactly one answer per player per round, hidden future questions, shared current-player avatars and prompts, required answers, persistent discussion holds beyond the deadline, separate participant shuffle without repeats, atomic concurrent retries, complete automatic progression, choice persistence and locking, whole-answer grouping, credits, host permissions, all thirty avatars, host creation into player view, participant QR, mobile entry, concurrent joins and credential recovery. Legacy-flow checks preserve existing games.
 
 The Python service tests exercise the production transaction layer against the exact bundled engine in Node. The generated Streamlit file is also checked against a fresh deterministic build. Browser verification checks the deployed Streamlit component separately.
 
-Existing active rooms keep the programme and question bank they started with. New rooms and rooms restarted by their host use the turn-time question selection and participant shuffle programme. The duplicate response-history section is removed for every room.
+Existing active rooms keep the programme and question bank they started with. New rooms and rooms restarted by their host use the turn-time question selection and participant shuffle programme. Existing rooms already using that programme also receive the separate answer, discussion and shuffle controls after refreshing. The duplicate response-history section is removed for every room.
