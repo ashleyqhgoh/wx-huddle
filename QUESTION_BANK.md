@@ -1,8 +1,8 @@
 # WX Huddle question choices
 
-Each player chooses one of three questions at the welcome and in each round, then answers once. All three options are reserved for that player, with no repeats across players. There are 192 current choices for up to sixteen players. No extra rules, follow-ups or second discussion set appear in new games.
+When their turn begins, each player chooses one of three questions at the welcome and in each round, then answers once. Everyone sees that player’s avatar and selected question. Shuffle to next player saves the answer and moves to someone who has not had a turn in that round. All three options are reserved for that player, with no repeats across players. There are 192 current choices for up to sixteen players. No extra rules, follow-ups or second discussion set appear in new games.
 
-Picks save with the room and lock when the player's turn starts, or once the welcome answer is shared. The first option is the default. Short team-bonding questions mix work confessions, odd dilemmas and stories that reveal how colleagues think.
+Questions stay hidden until the player’s turn. Picks save with the room, and the player can change their choice before submitting an answer. No option is selected by default. Short team-bonding questions mix work confessions, odd dilemmas and stories that reveal how colleagues think.
 
 ## Questions
 
