@@ -1,420 +1,399 @@
-# WX Huddle question choices
+# WX Huddle questions
 
-When their turn begins, each player chooses one of three questions at the welcome and in each round, then answers once. Everyone sees that player’s avatar and selected question. Share answer saves a required written answer and leaves it on screen for everyone to discuss. The countdown waits until the current player separately taps Shuffle to next player, moving to someone who has not had a turn in that round. All three options are reserved for that player, with no repeats across players. There are 192 current choices for up to sixteen players. No extra rules, follow-ups or second discussion set appear in new games.
+192 different questions. Every player gets three private choices in the welcome and each of the three rounds. Choose one and share one answer. There are no follow-up questions or answer timers.
 
-Questions stay hidden until the player’s turn. Picks save with the room, and the player can change their choice before submitting an answer. No option is selected by default. Short team-bonding questions mix work confessions, odd dilemmas and stories that reveal how colleagues think.
+Choices appear only on the player’s turn. After sharing, the group can chat until the player presses Shuffle. Between rounds, a round-complete screen waits for the host or last player to start the next round.
 
-## Questions
+These questions apply to new games. Existing games retain their original question choices and answers.
 
 ## Welcome
 
-### Set 1
+### Set 1: Quick hello
 
-1. What gets you through a day of back-to-back meetings?
-2. What belongs in your personal work survival kit?
-3. Which tiny work problem deserves a giant panic button?
+1. What did you have for breakfast?
+2. What's your usual coffee or tea order?
+3. What's the first app you open in the morning?
 
-### Set 2
+### Set 2: Everyday you
 
-1. What friendly warning should come with working with you?
-2. What should teammates never assume about you?
-3. What would your out-of-office message say if it were completely honest?
+1. Are you early, on time, or running in at the last second?
+2. How many alarms do you set?
+3. What do you always forget to bring?
 
-### Set 3
+### Set 3: Food talk
 
-1. What useless talent might actually save this team one day?
-2. What could you teach us without a single slide?
-3. What skill do you have that your job title completely hides?
+1. What food could you eat every day?
+2. What's your go-to lunch order?
+3. What food does everyone like except you?
 
-### Set 4
+### Set 4: Off the clock
 
-1. What does your face do when someone says quick meeting?
-2. What gives away that you have stopped following a conversation?
-3. What is your most recognisable habit on a video call?
+1. What did you last watch that was actually good?
+2. What song have you had on repeat?
+3. What's the last thing that made you laugh?
 
-### Set 5
+### Set 5: Small habits
 
-1. What unofficial job have you accidentally acquired in this team?
-2. What do colleagues always ask you to fix?
-3. What tiny office problem turns you into an expert?
+1. Do you unpack straight away after a trip?
+2. Do you read the instructions or just try it?
+3. How many browser tabs have you got open?
 
-### Set 6
+### Set 6: Your stuff
 
-1. What harmless work habit are you ridiculously fussy about?
-2. What desk item would you notice missing immediately?
-3. What workplace rule would you defend for no good reason?
+1. What's always in your bag?
+2. What have you bought recently that you keep talking about?
+3. What's the oldest thing you still use?
 
-### Set 7
+### Set 7: A day off
 
-1. What song belongs over footage of you facing a deadline?
-2. What sound sums up your average workday?
-3. What music should play when our team finally finishes a project?
+1. What does a good lazy Sunday look like?
+2. What's your favourite way to waste an hour?
+3. Where do you go when you need to get out of the house?
 
-### Set 8
+### Set 8: At home
 
-1. What tiny work win deserves a victory dance?
-2. What boring task gives you an unreasonable sense of achievement?
-3. What would win you a very small workplace trophy?
+1. What's a chore you keep putting off?
+2. What can you cook without looking at a recipe?
+3. What do you keep buying even though you have enough?
 
-### Set 9
+### Set 9: Little joys
 
-1. Which animal best describes you before your first meeting?
-2. What fictional character would be surprisingly good at your job?
-3. What would your work superhero be called?
+1. What cheap thing makes you happy?
+2. What's your favourite smell?
+3. What do you look forward to on the way home?
 
-### Set 10
+### Set 10: Your phone
 
-1. What question should nobody ask you before your first coffee or tea?
-2. What makes your brain need a loading screen?
-3. What task makes five minutes feel like fifty?
+1. What's your most-used emoji?
+2. Do you reply straight away or in your head?
+3. What photo is on your phone's lock screen?
 
-### Set 11
+### Set 11: Pick a side
 
-1. What small thing makes you think these are my people?
-2. What team habit would you miss if you worked alone?
-3. What makes a colleague instantly easy to talk to?
+1. Sweet popcorn or salty popcorn?
+2. Window seat or aisle seat?
+3. Would you rather be too hot or too cold?
 
-### Set 12
+### Set 12: Out and about
 
-1. What item in your bag could rescue a team disaster?
-2. What would you secretly add to the office supply order?
-3. What ordinary desk object do you have a strange attachment to?
+1. What shop can you never leave empty-handed?
+2. What do you order when you can't decide?
+3. Do you plan a holiday or figure it out there?
 
-### Set 13
+### Set 13: Good company
 
-1. What phrase do your teammates hear you say too often?
-2. What would be on your workplace catchphrase mug?
-3. What message do you type so often it deserves its own button?
+1. What do your friends always ask you about?
+2. What could you happily chat about over lunch?
+3. What game brings out your competitive side?
 
-### Set 14
+### Set 14: Growing up
 
-1. What topic could derail your work chat in the best way?
-2. What could you happily talk to a teammate about for ten minutes?
-3. What shared interest would make you claim a colleague as your new friend?
+1. What did you collect as a kid?
+2. What was your favourite school lunch?
+3. What did you think you'd be when you grew up?
 
-### Set 15
+### Set 15: Your routine
 
-1. Are you the checklist person, the improviser or the emergency snack supplier?
-2. When a plan falls apart, what do you do first?
-3. What does a teammate learn about you by Friday afternoon?
+1. What helps you wake up on a slow morning?
+2. What's the best part of your commute?
+3. What do you do first when you get home?
 
-### Set 16
+### Set 16: One more thing
 
-1. What work task would you happily swap for someone else's least favourite task?
-2. What could a colleague bribe you with to tackle a dull job?
-3. What part of your job would you happily let a teammate try?
+1. What have you been meaning to try?
+2. What's a small treat you never say no to?
+3. What are you surprisingly picky about?
 
 ## Round 1: Share your perspective
 
-### Set 1: Saved by a teammate
+### Set 1: Meeting habits
 
-1. When did a colleague save your day with something surprisingly small?
-2. What work rescue still deserves a proper thank-you?
-3. When did someone know you needed help before you did?
+1. Are you a camera-on or camera-off person?
+2. Do you take meeting notes or trust your memory?
+3. What do you do when a meeting ends early?
 
-### Set 2: The odd couple
+### Set 2: Desk stuff
 
-1. When did you work brilliantly with someone completely unlike you?
-2. Whose opposite approach turned out to be exactly what you needed?
-3. When did a teammate prove your first instinct wrong?
+1. What does your desk say about you?
+2. What's the strangest thing you've kept in a desk drawer?
+3. What's one thing you'd add to your workspace?
 
-### Set 3: A brave little moment
+### Set 3: Getting started
 
-1. When did you ask the question everyone else was quietly wondering about?
-2. What idea were you nervous to share that actually landed well?
-3. When did a teammate give you the push you needed?
+1. Do you tackle the easy job or the annoying job first?
+2. What do you put off until the last minute?
+3. What helps you get started when you don't feel like it?
 
-### Set 4: The unexpected win
+### Set 4: Lunch break
 
-1. What team success felt unlikely right up until it happened?
-2. When did a scrappy team plan work better than expected?
-3. What project moment made you want to high-five everyone?
+1. Do you bring lunch, buy lunch, or decide at lunchtime?
+2. What lunch place should the team try?
+3. What do you usually do on your lunch break?
 
-### Set 5: Borrowed tricks
+### Set 5: How you work
 
-1. What useful trick have you shamelessly borrowed from a colleague?
-2. Who showed you a shortcut that made you question your entire routine?
-3. What have you learned by watching someone else work?
+1. Do you need quiet, music, or people chatting?
+2. Are you a paper-list person or a phone-list person?
+3. Do you like finishing one thing or switching between a few?
 
-### Set 6: Lost in translation
+### Set 6: Team chat
 
-1. What work misunderstanding became funny once you sorted it out?
-2. When did a five-minute chat solve a week of messages?
-3. What did a colleague explain in a way that finally clicked?
+1. What's your favourite reaction in the team chat?
+2. What makes you laugh during a normal workday?
+3. What topic gets you talking at work?
 
-### Set 7: Trust earned
+### Set 7: A good day
 
-1. What small promise did a teammate keep that you still remember?
-2. When did you know a colleague had your back?
-3. What made it easier to stop checking and trust someone else?
+1. What makes a workday fly by?
+2. What tiny task feels great to tick off?
+3. What's your favourite part of Friday?
 
-### Set 8: Finding your people
+### Set 8: Work style
 
-1. When did you first feel properly part of this team?
-2. What did someone do that made your first week less awkward?
-3. When did a quiet colleague surprise you in a good way?
+1. Do you ask for help straight away or try a few things first?
+2. Do you think better talking or writing?
+3. Would you rather show someone or explain it in a message?
 
-### Set 9: Plan B
+### Set 9: Office life
 
-1. When did a last-minute change bring out the best in the team?
-2. What went wrong at work that you can laugh about now?
-3. When did someone stay calm while everyone else was scrambling?
+1. What office supply do you have strong opinions about?
+2. Do you keep a backup charger or borrow one every time?
+3. What's something useful you've learned from a colleague?
 
-### Set 10: A useful argument
+### Set 10: A familiar face
 
-1. When did disagreeing with a colleague lead somewhere useful?
-2. What opinion about work have your teammates changed for you?
-3. When did you say you were right to a colleague and mean it?
+1. What do teammates usually come to you for?
+2. What would surprise a colleague about your weekends?
+3. What hobby would you happily show the team?
 
-### Set 11: First-week memories
+### Set 11: Busy days
 
-1. What was your funniest wrong assumption when you joined?
-2. What did you have to learn here that no induction could explain?
-3. What first-week question were you glad you finally asked?
+1. What do you reach for on a long afternoon?
+2. How can people tell you're concentrating?
+3. What helps you switch off after a busy day?
 
-### Set 12: Sharing the load
+### Set 12: Messages
 
-1. When did a big job suddenly feel manageable because people pitched in?
-2. What did a teammate take off your plate at just the right moment?
-3. When did working together beat trying to be the hero?
+1. Do you prefer a quick call or a few messages?
+2. Do you reread an email after sending it?
+3. What's a message you're always happy to receive?
 
-### Set 13: Work can be fun
+### Set 13: Your way
 
-1. What dull task became fun because of who you did it with?
-2. What team moment still makes you smile when you remember it?
-3. When did a colleague's humour rescue a tense moment?
+1. Do you colour-code things or keep it simple?
+2. Are your files organised or do you rely on search?
+3. Do you finish your drink while it's hot?
 
-### Set 14: Getting noticed
+### Set 14: Work memories
 
-1. What compliment from a colleague meant more than they probably realised?
-2. When did someone notice effort you thought nobody had seen?
-3. What thank-you at work felt especially personal?
+1. What's the funniest typo you've spotted?
+2. What's the oddest place you've taken a work call?
+3. What's something you used to find hard that's easy now?
 
-### Set 15: Trying something new
+### Set 15: Small preferences
 
-1. What work task scared you until you actually tried it?
-2. When did a colleague spot a strength you had not noticed?
-3. What did you get better at because someone let you practise?
+1. Morning meeting or afternoon meeting?
+2. Sit by the window or near the door?
+3. Do you dress for comfort or for the occasion?
 
-### Set 16: Beyond the job title
+### Set 16: Getting along
 
-1. What surprising thing did you discover you had in common with a colleague?
-2. When did an outside interest help you connect with someone at work?
-3. What did you learn about a teammate that changed how you saw them?
+1. What makes a new teammate easy to talk to?
+2. What would make a team lunch more fun?
+3. What do you like finding out about a new colleague?
 
-## Round 2: Plot twist
+## Round 2: What would you do?
 
-### Set 1: Office zombies
+### Set 1: Free time
 
-1. Zombies arrive during our huddle. What office item are you grabbing first?
-2. Our team needs a zombie escape plan. What role are you taking?
-3. Which ordinary work skill would become useful in a zombie outbreak?
+1. Your meeting gets cancelled. What do you do first?
+2. You've got an unexpected day off. Where are you going?
+3. You finish work an hour early. What's the plan?
 
-### Set 2: A very odd swap
+### Set 2: Team outing
 
-1. You swap jobs with a teammate tomorrow. What are you most worried about?
-2. Our job titles must describe what we really do. What is yours?
-3. You can borrow one teammate's skill for a day. What do you choose?
+1. You're choosing the team outing. Where are we going?
+2. Karaoke with colleagues: singing, cheering, or leaving early?
+3. At a team barbecue, are you cooking or just eating?
 
-### Set 3: The work superpower
+### Set 3: Food decisions
 
-1. What is your work superpower and its very unhelpful side effect?
-2. You can pause one part of the workday. Which part gets frozen?
-3. You get one work shortcut that feels like cheating. What does it do?
+1. The team orders pizza. What topping are you picking?
+2. You're in charge of dessert. What are you bringing?
+3. Free lunch for a month, but only one dish. What is it?
 
-### Set 4: The documentary
+### Set 4: A quick choice
 
-1. A film crew follows our team. What scene makes the trailer?
-2. What would a documentary about your workday be called?
-3. What part of our work would a reality show make ridiculously dramatic?
+1. Would you rather start early or finish late?
+2. Would you rather give a presentation or write the report?
+3. Would you rather organise the outing or just turn up?
 
-### Set 5: Office Olympics
+### Set 5: Group plans
 
-1. What oddly specific event would you add to the Office Olympics?
-2. What everyday task could become a surprisingly fierce team competition?
-3. What would your personal Office Olympics gold medal be for?
+1. The team has a quiz night. What subject are you covering?
+2. We're doing a potluck. What's your dish?
+3. We need a team photo. Where are you standing?
 
-### Set 6: A surprise mission
+### Set 6: A little extra
 
-1. We must escape a room together. What are you useful for?
-2. Our team must build furniture without instructions. What do you do first?
-3. We have to pitch a ridiculous product in five minutes. What is your role?
+1. You've got $20 to improve the office. What are you buying?
+2. The office gets a pet. What should it be?
+3. You can add one thing to the pantry. What is it?
 
-### Set 7: The honest robot
+### Set 7: Making a choice
 
-1. A robot can take over one work task. What do you hand over?
-2. Your robot assistant copies one of your bad habits. Which one causes trouble?
-3. What human skill would you refuse to leave to a robot?
+1. Would you rather lose your phone or your keys for a day?
+2. Would you rather forget someone's name or call them the wrong name?
+3. Would you rather cook for the team or wash all the dishes?
 
-### Set 8: One strange rule
+### Set 8: When plans change
 
-1. You can introduce one harmless office rule for a day. What is it?
-2. Every meeting must include one unusual item. What are you choosing?
-3. We replace all job titles with nicknames we choose ourselves. What is yours?
+1. The restaurant is fully booked. Do you wait or go somewhere else?
+2. It's raining on the team picnic. What's plan B?
+3. The Wi-Fi is down for an hour. What are you doing?
 
-### Set 9: The talking laptop
+### Set 9: Something new
 
-1. Your laptop can complain about one thing. What does it say?
-2. Your calendar writes you a review. What is its main complaint?
-3. Your inbox sends the team a message about you. What does it reveal?
+1. A colleague offers to teach you a hobby. What would you pick?
+2. You get a free class of your choice. What are you learning?
+3. You can try another job for a day. Which one?
 
-### Set 10: Our team island
+### Set 10: Small surprises
 
-1. Our team is stranded on an island. What are you put in charge of?
-2. You can bring one workplace object to our island. What earns its place?
-3. What team habit would help us survive being stranded together?
+1. You find a forgotten gift card. What do you spend it on?
+2. Someone brings an unfamiliar snack. Do you try it?
+3. You win a free trip tomorrow. Where do you hope it's to?
 
-### Set 11: A tiny business
+### Set 11: Team games
 
-1. Our team opens a food truck. What are we selling?
-2. Our team runs a hotel for a day. Where would you cause the least chaos?
-3. We have to sell one of our team habits as a service. What would people buy?
+1. At bowling, are you aiming to win or happy to hit one pin?
+2. At an escape room, are you solving clues or opening every drawer?
+3. In charades, would you rather act or guess?
 
-### Set 12: A ridiculous award
+### Set 12: Joining in
 
-1. Invent an award for a useful thing this team does quietly.
-2. What team skill deserves a trophy with an unnecessarily grand name?
-3. What would an award for your most overlooked work habit be called?
+1. Someone starts a group dance. Are you joining?
+2. You get handed the microphone. What song do you pick?
+3. You're asked to lead a five-minute game. What do you play?
 
-### Set 13: Time travel
+### Set 13: A nice problem
 
-1. You can send your first-day self five words. What are they?
-2. You can replay one great team moment. Which one gets another showing?
-3. A future teammate asks what we are like. What story do you tell?
+1. Free coffee, free parking, or free lunch for a year?
+2. Would you pick a longer weekend or shorter workdays?
+3. Would you take a surprise gift or choose your own?
 
-### Set 14: The team mascot
+### Set 14: With the team
 
-1. What creature should represent our team on a chaotic day?
-2. Our team mascot needs a catchphrase. What does it shout?
-3. What would our team mascot do when a deadline suddenly moves?
+1. We're ordering bubble tea. What's your order?
+2. You're picking a movie for the team. What are we watching?
+3. A teammate asks for a good breakfast spot. Where do you send them?
 
-### Set 15: The mystery box
+### Set 15: One choice
 
-1. A box arrives labelled Make Work Better. What do you hope is inside?
-2. What could you put in a box to make a teammate's Monday better?
-3. What everyday object deserves a place in a museum about our team?
+1. Would you rather speak every language or play every instrument?
+2. Would you rather always find a seat or always find a parking spot?
+3. Would you rather have a personal cook or a personal cleaner?
 
-### Set 16: The team challenge card
+### Set 16: Making yourself at home
 
-1. We must explain our team using only three objects. What do you pick?
-2. We need a team name that is honest but still printable. What is it?
-3. What would our team put on a flag if nobody from management was designing it?
+1. You can move your desk anywhere for a day. Where?
+2. You get to pick the office playlist. What's the first song?
+3. You can rename the meeting room. What are you calling it?
 
 ## Round 3: Wild ideas
 
-### Set 1: Meeting mayhem
+### Set 1: A bit random
 
-1. How would you make a ten-minute huddle last all afternoon?
-2. What meeting rule would make everyone check the time?
-3. How could a quick update become a twelve-slide presentation?
+1. What's the weirdest thing you've eaten?
+2. What's a silly thing you believed as a kid?
+3. What word do you always spell wrong?
 
-### Set 2: Welcome chaos
+### Set 2: Be honest
 
-1. What is the worst possible first-day welcome pack?
-2. How would you make meeting the team unnecessarily awkward?
-3. What crucial detail would a terrible induction leave out?
+1. How many unread emails feels normal to you?
+2. Have you ever waved back at someone waving at somebody else?
+3. What's something you pretend to understand but don't?
 
-### Set 3: Chat overload
+### Set 3: Little mysteries
 
-1. How could one simple message trigger fifty replies?
-2. What would make the team chat completely unreadable?
-3. How would you announce a tiny update with maximum drama?
+1. Where do all your missing socks go?
+2. What thing do you lose while holding it?
+3. What do you forget as soon as you walk into another room?
 
-### Set 4: Who owns this?
+### Set 4: Questionable taste
 
-1. How would you divide a task so everyone thinks someone else owns it?
-2. What instruction would make three people do the same job?
-3. How could a simple team plan become a guessing game?
+1. What food combination do you like that others find odd?
+2. What song do you know all the words to but won't admit?
+3. What film have you watched far too many times?
 
-### Set 5: Forced fun
+### Set 5: At work
 
-1. How would you turn a team outing into homework?
-2. What would make a relaxing team afternoon suspiciously exhausting?
-3. How could a team activity accidentally leave half the team out?
+1. What should the printer be called?
+2. What sound does your brain make at 5pm?
+3. What would your laptop complain about if it could talk?
 
-### Set 6: Thanks, sort of
+### Set 6: Everyday drama
 
-1. What is the least convincing thank-you you could give a teammate?
-2. How could a team award overlook everyone who helped?
-3. How would you make celebrating teamwork weirdly competitive?
+1. What's something tiny that annoys you far too much?
+2. What takes you longer than it should?
+3. What do you get competitive about for no reason?
 
-### Set 7: Help!
+### Set 7: Old favourites
 
-1. What is the least helpful reply to I am stuck?
-2. How could asking for help become harder than the original task?
-3. What team rule would make people stop asking questions?
+1. What old TV show would you still happily watch?
+2. What childhood snack would you buy right now?
+3. What old fashion trend did you fully commit to?
 
-### Set 8: The missing file
+### Set 8: Oops
 
-1. What file name would guarantee nobody finds the right version?
-2. What would you leave out of a spectacularly bad handover?
-3. How could a shared folder become a treasure hunt with no treasure?
+1. What's your best wrong-number story?
+2. Have you ever been on mute while making a great point?
+3. What's the funniest thing autocorrect has done to you?
 
-### Set 9: Can you hear us?
+### Set 9: No judgement
 
-1. How would you run a call so remote teammates never get a word in?
-2. What would make an online teammate feel like a forgotten screen?
-3. How could a hybrid celebration be fun for only half the team?
+1. What's the most random thing in your fridge?
+2. What do you own far too many of?
+3. What's a purchase you can't really explain?
 
-### Set 10: Ideas not welcome
+### Set 10: Just asking
 
-1. What sentence would kill a brainstorm before it starts?
-2. How could suggesting an idea require more work than doing it?
-3. What would make a meeting called Fresh Ideas painfully predictable?
+1. What would you win a very silly award for?
+2. What would your pet say about you?
+3. What item would you bring to a show-and-tell today?
 
-### Set 11: Everything is urgent
+### Set 11: Your habits
 
-1. How would you make every request sound like an emergency?
-2. What task-list rule would keep the important job unfinished forever?
-3. How could deciding what to do take longer than doing it?
+1. Do you talk to yourself when you're working?
+2. Do you name your plants or gadgets?
+3. What do you do while waiting for the microwave?
 
-### Set 12: Helpful feedback, apparently
+### Set 12: Strong opinions
 
-1. What feedback would leave someone more confused than before?
-2. How would you review work without saying anything useful?
-3. What is the worst reply to Does this look right?
+1. Is a hot dog a sandwich?
+2. Should pineapple be on pizza?
+3. Do you put the cereal or the milk in first?
 
-### Set 13: Just a minute
+### Set 13: On a screen
 
-1. How could you interrupt someone without ever letting them finish a thought?
-2. What would make Got a minute? the least trusted phrase here?
-3. How would you check someone's availability in the most annoying way?
+1. What's the most ridiculous thing you've searched for?
+2. What video always makes you laugh?
+3. What app would you be better off deleting?
 
-### Set 14: Everyone, except you
+### Set 14: Out of office
 
-1. How could we ask for opinions while letting only one person speak?
-2. What would make a quiet teammate vanish from a discussion?
-3. How would you invite questions and make everyone afraid to ask?
+1. What tourist thing do you secretly love doing?
+2. What's the oddest souvenir you've brought home?
+3. What do you always overpack?
 
-### Set 15: Learning uphill
+### Set 15: A small confession
 
-1. How would you explain a simple task as if it were rocket science?
-2. What training activity would make everyone wish they were back at their desks?
-3. How could a useful shortcut become an intimidating instruction manual?
+1. What have you tried to fix by turning it off and on?
+2. What have you kept because it might be useful one day?
+3. What do you buy for guests and then eat yourself?
 
-### Set 16: The vanishing decision
+### Set 16: Last laugh
 
-1. How could everyone leave a meeting remembering a different plan?
-2. What is the worst way to tell someone what they missed?
-3. How would you discuss a good idea forever without trying it?
-
-## Closing reflections
-
-These are dealt individually as reflection cards.
-
-1. Who surprised you today?
-2. What did you discover you have in common?
-3. Whose work trick might you borrow?
-4. What do teammates now know to ask you about?
-5. Which team idea deserves a real try?
-6. What made you laugh because it was familiar?
-7. Who would you like to work with on something new?
-8. What useful difference between teammates did you notice?
-9. What would you like us to do more often?
-10. What would make our next busy week easier?
-11. Who deserves a thank-you after today?
-12. What would you like to ask someone over coffee?
-13. What should a new teammate know about us?
-14. Which tiny team habit is worth keeping?
-15. What did you hear that changed your mind?
-16. What is one small thing you will do differently together?
+1. What would your walk-in music be?
+2. What phrase do you say so often it's become a habit?
+3. What's your least convincing excuse for not going out?

@@ -4,11 +4,11 @@ A hybrid huddle for approximately 14 colleagues, supporting 2–16 players. Part
 
 ## The game
 
-Allow about 60 minutes including conversation. Every player has 30 seconds to choose and submit an answer in the welcome and each round. From the welcome onward, each player sees three question choices only when their turn begins. Everyone sees the current player’s avatar, name and chosen question. Share answer requires a written answer and keeps the player, selected question and full answer on screen for discussion. The countdown waits until that player separately clicks Shuffle to next player. Shuffle selects someone who has not had a turn in the round; the final player moves the group to the next round. Unanswered turns still have a timer fallback. Discussion can extend the planned hour.
+Allow about 60 minutes including conversation. Every player turn is manual, with unlimited time to choose, answer and discuss in the welcome and each round. From the welcome onward, each player sees three question choices only when their turn begins. Everyone sees the current player’s avatar, name and chosen question. Share answer requires a written answer and keeps the player, selected question and full answer on screen for discussion. The turn stays with that player until they separately click Shuffle to next player. Shuffle selects someone who has not had a turn in the round; the final player brings up a round-complete screen naming the next round. The host or that player presses Start round when everyone is ready. This break has no countdown. Unanswered turns never expire or move on automatically. The host can explicitly skip a turn if someone cannot continue. Discussion can extend the planned hour.
 
-1. **Share your perspective:** choose one of three questions and tell a work story.
-2. **What would you do?:** choose one question and share how you would handle it.
-3. **Wild ideas:** choose one question and give your most ridiculous idea.
+1. **Share your perspective:** choose one short question about everyday life or work.
+2. **What would you do?:** choose one simple situation or preference.
+3. **Wild ideas:** choose one light question and share your answer.
 
 Each player answers once per round. There are no extra rules, follow-up questions or second discussion set. All three options are reserved for one player, so another player cannot receive the same question. The current programme uses 192 distinct choices: sixteen players, three options each, across the welcome and three rounds. Picks save with the room and can change until the answer is submitted. No question is chosen automatically. Future questions stay absent from other players’ views and private hands until the relevant turn.
 
@@ -41,7 +41,7 @@ Creating a room opens My cards: the host is already a player. The room code, dir
 
 A scanned room QR opens joining with its code entered. After joining, hosts and participants both see the room code, direct joining link and QR. During play, Invite players opens them again. The form appears first on phones, with ten avatar choices and a See all 30 characters control. The page grows and shrinks with its content; dialogs use the visible browser viewport.
 
-A ghost animation reveals the selected player. Soft synthesized music accompanies the draw, with short tones for the final answer countdown. Sound is controlled by the speaker button and begins through a user gesture. Reduced-motion settings are respected.
+A ghost animation reveals the selected player. Soft synthesized music accompanies the draw and plays quietly during player turns. Manual turns have no countdown sounds. Sound is controlled by the speaker button and begins through a user gesture. Reduced-motion settings are respected.
 
 ## Run locally
 
@@ -64,8 +64,8 @@ An original, bouncy Halloween music-box loop plays chiming bells, plucked bass, 
 
 ## Validation
 
-The source passed 100 JavaScript checks and thirteen Python service integration checks. Coverage includes three unique private options at 2, 14 and 16 seats, exactly one answer per player per round, hidden future questions, shared current-player avatars and prompts, required answers, persistent discussion holds beyond the deadline, separate participant shuffle without repeats, atomic concurrent retries, complete automatic progression, choice persistence and locking, whole-answer grouping, credits, host permissions, all thirty avatars, host creation into player view, participant QR, mobile entry, concurrent joins and credential recovery. Legacy-flow checks preserve existing games.
+The source passed 105 JavaScript checks and thirteen Python service integration checks. Coverage includes three unique private options at 2, 14 and 16 seats, exactly one answer per player per round, hidden future questions, shared current-player avatars and prompts, required answers, persistent discussion holds beyond the deadline, separate participant shuffle without repeats, atomic concurrent retries, manual turn progression and host skip fallback, choice persistence and locking, whole-answer grouping, credits, host permissions, all thirty avatars, host creation into player view, participant QR, mobile entry, concurrent joins and credential recovery. Legacy-flow checks preserve existing games.
 
 The Python service tests exercise the production transaction layer against the exact bundled engine in Node. The generated Streamlit file is also checked against a fresh deterministic build. Browser verification checks the deployed Streamlit component separately.
 
-Existing active rooms keep the programme and question bank they started with. New rooms and rooms restarted by their host use the turn-time question selection and participant shuffle programme. Existing rooms already using that programme receive the 30-second answer timer and separate answer, discussion and shuffle controls after refreshing. A current unanswered turn receives a full 30 seconds once; later refreshes do not reset it. Discussion and paused states are preserved. The duplicate response-history section is removed for every room.
+Existing active rooms keep their question bank, selected questions and answers. New games use the revised bank of 192 short, everyday questions. New rooms and rooms restarted by their host use the turn-time question selection and participant shuffle programme. Existing rooms already using that programme receive manual player turns after refreshing. The current turn and future turns have no deadline; a late poll or reload cannot skip an unanswered player. Discussion and paused states are preserved. The duplicate response-history section is removed for every room.
